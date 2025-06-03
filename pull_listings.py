@@ -35,9 +35,9 @@ ZIP_LAT_LON = {
 }
 
 # Short list for debugging
-ZIP_LAT_LON = {
-    "33139": (25.7828, -80.1341),
-}
+# ZIP_LAT_LON = {
+#    "33139": (25.7828, -80.1341),
+#}
 
 API_HOST = "realtor16.p.rapidapi.com"
 API_KEY = "435f273a6amsh3973eab886359cap108895jsn5ef05f7d2f9b"
@@ -107,7 +107,7 @@ for zip_code, (lat, lon) in ZIP_LAT_LON.items():
                 #    (item.get("photo") or {}).get("href")
                 #    or (item.get("primary_photo") or {}).get("href")
                 #)
-                #"image_urls": [photo.get("href") for photo in item.get("photos", []) if photo.get("href")]
+                #sAnd this "image_urls": [photo.get("href") for photo in item.get("photos", []) if photo.get("href")]
                 # hack to get bigger images
                 "image_urls": [
                     photo.get("href").replace("s.jpg", "l.jpg")
