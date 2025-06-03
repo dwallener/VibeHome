@@ -1,0 +1,6986 @@
+[
+  {
+    "zip": "33130",
+    "price": 950000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1322,
+    "address": "50 Biscayne Blvd Apt 3106",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9cf0a95f88653c45fce9a28a61f74d46l-m3687181790l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 749999,
+    "beds": 6,
+    "baths": null,
+    "sqft": 1688,
+    "address": "920 SW 8th Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f1069b4694982563ef2dda3a93b35375l-m2756683390l.jpg",
+      "https://ap.rdcpix.com/f1069b4694982563ef2dda3a93b35375l-m40668450l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 2500000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 5412,
+    "address": "30 SW 21st Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a148c470aff40a57784626efffae5c31l-m3299010662l.jpg",
+      "https://ap.rdcpix.com/a148c470aff40a57784626efffae5c31l-m1582428280l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 635000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1129,
+    "address": "90 SW 3rd St Apt 2513",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c25b96d7e5991ae6fc10b72f0bff8072l-m2044270270l.jpg",
+      "https://ap.rdcpix.com/c25b96d7e5991ae6fc10b72f0bff8072l-m3904308036l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 849000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1640,
+    "address": "1541 Brickell Ave Unit A1202",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/094e25db2d0c60fd03f15b83a2024329l-m3551993975l.jpg",
+      "https://ap.rdcpix.com/094e25db2d0c60fd03f15b83a2024329l-m1107260494l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 890000,
+    "beds": 1,
+    "baths": null,
+    "sqft": null,
+    "address": "1000 Brickell Plz Unit 4504",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cd041e66cd2da90257756da517d14eb9l-m3471581287l.jpg",
+      "https://ap.rdcpix.com/cd041e66cd2da90257756da517d14eb9l-m604165215l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 519900,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1113,
+    "address": "690 SW 1st Ct Apt 2711",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a85708101fcbce4b818dea76a792b3f1l-m3428428511l.jpg",
+      "https://ap.rdcpix.com/a85708101fcbce4b818dea76a792b3f1l-m2762492692l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 645000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1100,
+    "address": "2333 Brickell Ave Apt 615",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ebb234db657cbc49bad40612be49e453l-m3702877466l.jpg",
+      "https://ap.rdcpix.com/ebb234db657cbc49bad40612be49e453l-m942136765l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 449999,
+    "beds": 0,
+    "baths": null,
+    "sqft": 466,
+    "address": "229 SW 9th St Unit 504",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9fdf2d916a21d54e9d7d5ccaf5ecdebel-m2454613360l.jpg",
+      "https://ap.rdcpix.com/9fdf2d916a21d54e9d7d5ccaf5ecdebel-m2886834902l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 460000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 838,
+    "address": "1250 S Miami Ave Apt 2208",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0d26eb4907e2f441c8f0041356abf0f7l-m3288505594l.jpg",
+      "https://ap.rdcpix.com/0d26eb4907e2f441c8f0041356abf0f7l-m3604944178l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 1995000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1801,
+    "address": "90 SW 3rd St Ph 14",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/40bcd611edb2bdb3582e71e79f113473l-m3708495903l.jpg",
+      "https://ap.rdcpix.com/40bcd611edb2bdb3582e71e79f113473l-m3975575055l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 350000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 545,
+    "address": "31 SE 6th St Apt 2205",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0ebe376b6cb8de2c24b4c07c1af4adf6l-m3795982499l.jpg",
+      "https://ap.rdcpix.com/0ebe376b6cb8de2c24b4c07c1af4adf6l-m86743154l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 580000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 764,
+    "address": "1395 Brickell Ave Unit 2814",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/65a9e07f8b7f5483536069f14de49c94l-m2553812301l.jpg",
+      "https://ap.rdcpix.com/65a9e07f8b7f5483536069f14de49c94l-m2071658508l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 3149000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2148,
+    "address": "300 Biscayne Blvd Way Unit 4007",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a0e5adca52b6f2e5bf692eecb1ec4da8l-m1829020274l.jpg",
+      "https://ap.rdcpix.com/a0e5adca52b6f2e5bf692eecb1ec4da8l-m174380038l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 6050000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "1628 SW 7th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d80fb5f34b131c85272a2f1f5a836709l-m1931992547l.jpg",
+      "https://ap.rdcpix.com/d80fb5f34b131c85272a2f1f5a836709l-m1194940567l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 99000,
+    "beds": 0,
+    "baths": null,
+    "sqft": null,
+    "address": "1541 Brickell Ave Unit C349",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e209684d0ab8e67b5fc829216c4918e3l-m1537660272l.jpg",
+      "https://ap.rdcpix.com/e209684d0ab8e67b5fc829216c4918e3l-m2528642011l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 1750000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2236,
+    "address": "1080 Brickell Ave Unit 1409",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/fbc8ab252a86ebfab5e50adef5aabd8bl-m298465507l.jpg",
+      "https://ap.rdcpix.com/fbc8ab252a86ebfab5e50adef5aabd8bl-m1597182683l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 1250000,
+    "beds": null,
+    "baths": null,
+    "sqft": 1881,
+    "address": "625 SW 16th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/99610b0d88c5d9f2699005d64c6f6ddcl-m1114695343l.jpg",
+      "https://ap.rdcpix.com/99610b0d88c5d9f2699005d64c6f6ddcl-m2618679381l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 289000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 625,
+    "address": "1025 SW 7th Ave Apt 5",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a9cbd777da38734af45615dcaea1f7ael-m3264521146l.jpg",
+      "https://ap.rdcpix.com/a9cbd777da38734af45615dcaea1f7ael-m4121944804l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 950000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1088,
+    "address": "1300 S Miami Ave Unit 2902",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cf5f066da0f3eb23a72fd3f3a10ac1ffl-m642922661l.jpg",
+      "https://ap.rdcpix.com/cf5f066da0f3eb23a72fd3f3a10ac1ffl-m1819715330l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 495000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 659,
+    "address": "1600 SW 1st Ave Apt 813",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a11bd27c949c5bddd09f71436ba0efb8l-m2380760205l.jpg",
+      "https://ap.rdcpix.com/a11bd27c949c5bddd09f71436ba0efb8l-m1143144266l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 59000000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 19868,
+    "address": "300 Biscayne Blvd Way Apt 6301",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/263c2fa8a80937873d3dae20984758abl-m4278681153l.jpg",
+      "https://ap.rdcpix.com/263c2fa8a80937873d3dae20984758abl-m3020860153l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 385000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 962,
+    "address": "801 Brickell Bay Dr Ste 361",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/eda0ff54e3baa1d91c752f5bdc1ffef0l-m3568731548l.jpg",
+      "https://ap.rdcpix.com/eda0ff54e3baa1d91c752f5bdc1ffef0l-m3871346918l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 590000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1240,
+    "address": "60 SW 13th St Apt 2100",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/7a0f88b0d31c7e09c9b74a4a32504f88l-m184851109l.jpg",
+      "https://ap.rdcpix.com/7a0f88b0d31c7e09c9b74a4a32504f88l-m2026764239l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 575000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 919,
+    "address": "2400 Brickell Ave Apt 306D",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9bb69d6b1d9a3e5409e195d0eced92c2l-m2300109066l.jpg",
+      "https://ap.rdcpix.com/9bb69d6b1d9a3e5409e195d0eced92c2l-m2660189305l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 947500,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1723,
+    "address": "1901 Brickell Ave Apt B1114",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/67a0e5c12abb57d24f46351f057eedf9l-m2876240513l.jpg",
+      "https://ap.rdcpix.com/67a0e5c12abb57d24f46351f057eedf9l-m2035909408l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 12950000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 10000,
+    "address": "1643 Brickell Ave Apt 4902",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dd3226bde8f51f3634e85021a3a7105fl-m762522819l.jpg",
+      "https://ap.rdcpix.com/dd3226bde8f51f3634e85021a3a7105fl-m2180433321l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 560000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 766,
+    "address": "55 9th St SW Unit 421",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/985ab324709673787fae08137b5cf993l-m2308087212l.jpg",
+      "https://ap.rdcpix.com/985ab324709673787fae08137b5cf993l-m2739539682l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 740000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 732,
+    "address": "525 NW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b33a2707106d219de65ffb7a376cbdb0l-m1379577713l.jpg",
+      "https://ap.rdcpix.com/b33a2707106d219de65ffb7a376cbdb0l-m2752533961l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 792000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 799,
+    "address": "525 NW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d04bf72a1d8c94869f4bc21cfe369618l-m1379577713l.jpg",
+      "https://ap.rdcpix.com/d04bf72a1d8c94869f4bc21cfe369618l-m3004944981l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 470900,
+    "beds": 0,
+    "baths": null,
+    "sqft": 411,
+    "address": "1034 SW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3e352a34caad8ecad5eb1d9b12105cebl-m1005136661l.jpg",
+      "https://ap.rdcpix.com/3e352a34caad8ecad5eb1d9b12105cebl-m3186493330l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 1900000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 1011,
+    "address": "1300 Brickell Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9423101ea99597245fcb88f10860f503l-m3305102547l.jpg",
+      "https://ap.rdcpix.com/9423101ea99597245fcb88f10860f503l-m1491388814l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 559000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 439,
+    "address": "525 NW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1ed9a6e4bac73104071aca2197123620l-m1379577713l.jpg",
+      "https://ap.rdcpix.com/1ed9a6e4bac73104071aca2197123620l-m3985053977l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 744900,
+    "beds": 0,
+    "baths": null,
+    "sqft": 465,
+    "address": "120 SW 8th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8632fabefb900a06fe2bac976c66f215l-m537217950l.jpg",
+      "https://ap.rdcpix.com/8632fabefb900a06fe2bac976c66f215l-m1471455144l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 495000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1113,
+    "address": "690 SW 1st Ct Apt 2717",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/71d82269065f6df12669d86a937b75f7l-m3920174016l.jpg",
+      "https://ap.rdcpix.com/71d82269065f6df12669d86a937b75f7l-m4264824433l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 1199000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "676 SW 1st St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2238a60304d3b399bc51e6b9acb87108l-m3782968674l.jpg",
+      "https://ap.rdcpix.com/2238a60304d3b399bc51e6b9acb87108l-m632544294l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 850000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "1785 SW 11th Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/60f85e35996dc5395cf0668784b61a06l-m218778223l.jpg",
+      "https://ap.rdcpix.com/60f85e35996dc5395cf0668784b61a06l-m1268274543l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 59000000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 19868,
+    "address": "300 S Biscayne Blvd Unit 6301",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cb8ce4623844d8059f9813044a39e1f8l-m1091973915l.jpg",
+      "https://ap.rdcpix.com/cb8ce4623844d8059f9813044a39e1f8l-m17490007l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 384900,
+    "beds": 3,
+    "baths": null,
+    "sqft": 990,
+    "address": "801 Brickell Bay Dr Apt 764",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3c061c4cadff6500152858c282d371dfl-m3316912976l.jpg",
+      "https://ap.rdcpix.com/3c061c4cadff6500152858c282d371dfl-m4073524207l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 920700,
+    "beds": 3,
+    "baths": null,
+    "sqft": 5490,
+    "address": "1210 Brickell Ave Unit 5",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f902d832de4edacc9a5af17779e16f20l-m2330757889l.jpg",
+      "https://ap.rdcpix.com/f902d832de4edacc9a5af17779e16f20l-m2084791534l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 949900,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1529,
+    "address": "1331 Brickell Bay Dr Apt 2702",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/13061f46db51049a2742bdaf3f578b1dl-m3486787322l.jpg",
+      "https://ap.rdcpix.com/13061f46db51049a2742bdaf3f578b1dl-m3831638837l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 451000,
+    "beds": 3,
+    "baths": null,
+    "sqft": null,
+    "address": "1658 NW 1st St Unit 1",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e7a6ce5312032860b572609c41a18d9el-m2177186430l.jpg",
+      "https://ap.rdcpix.com/e7a6ce5312032860b572609c41a18d9el-m1545845364l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 5000000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3901,
+    "address": "2323 SW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/146ec08fbef2be0252b006c413f5df2dl-m378957913l.jpg",
+      "https://ap.rdcpix.com/146ec08fbef2be0252b006c413f5df2dl-m1918715709l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 649000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1289,
+    "address": "41 SE 5th St Apt 816",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1716f3c29ee5098b377450da55cde51dl-m3497203923l.jpg",
+      "https://ap.rdcpix.com/1716f3c29ee5098b377450da55cde51dl-m4148301453l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 525000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1030,
+    "address": "1450 Brickell Bay Dr Apt 411",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bdeb4f4f8565240e70b5633aa641568dl-m697809689l.jpg",
+      "https://ap.rdcpix.com/bdeb4f4f8565240e70b5633aa641568dl-m626636529l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 735000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1254,
+    "address": "60 SW 13th St Apt 4606",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e9ffadb361465e8213b11e31d1ec7ab3l-b472767321l.jpg",
+      "https://ap.rdcpix.com/e9ffadb361465e8213b11e31d1ec7ab3l-b3461003600l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 845000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1232,
+    "address": "1200 Brickell Bay Dr Apt 3102",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cd99117d30580d93c46269e4aaabe3b3l-m2951281098l.jpg",
+      "https://ap.rdcpix.com/cd99117d30580d93c46269e4aaabe3b3l-m2580356792l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 799500,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1155,
+    "address": "1300 S Miami Ave Unit 1610",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8beabc40da0b425645d7d9c3e1c0c8e3l-m1153182693l.jpg",
+      "https://ap.rdcpix.com/8beabc40da0b425645d7d9c3e1c0c8e3l-m1500791236l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 590000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1016,
+    "address": "31 SE 6th St Apt 802",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4ed769343572a6ec48e4582bc0b10dccl-m1879601511l.jpg",
+      "https://ap.rdcpix.com/4ed769343572a6ec48e4582bc0b10dccl-m308912508l.jpg"
+    ]
+  },
+  {
+    "zip": "33130",
+    "price": 439000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 760,
+    "address": "1155 Brickell Bay Dr Apt 2005",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/03bff4940f875dd64c840b664cf6381bl-m1510317379l.jpg",
+      "https://ap.rdcpix.com/03bff4940f875dd64c840b664cf6381bl-m2983484360l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 950000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1322,
+    "address": "50 Biscayne Blvd Apt 3106",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9cf0a95f88653c45fce9a28a61f74d46l-m3687181790l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 749999,
+    "beds": 6,
+    "baths": null,
+    "sqft": 1688,
+    "address": "920 SW 8th Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f1069b4694982563ef2dda3a93b35375l-m2756683390l.jpg",
+      "https://ap.rdcpix.com/f1069b4694982563ef2dda3a93b35375l-m40668450l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 2500000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 5412,
+    "address": "30 SW 21st Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a148c470aff40a57784626efffae5c31l-m3299010662l.jpg",
+      "https://ap.rdcpix.com/a148c470aff40a57784626efffae5c31l-m1582428280l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 635000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1129,
+    "address": "90 SW 3rd St Apt 2513",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c25b96d7e5991ae6fc10b72f0bff8072l-m2044270270l.jpg",
+      "https://ap.rdcpix.com/c25b96d7e5991ae6fc10b72f0bff8072l-m3904308036l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 849000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1640,
+    "address": "1541 Brickell Ave Unit A1202",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/094e25db2d0c60fd03f15b83a2024329l-m3551993975l.jpg",
+      "https://ap.rdcpix.com/094e25db2d0c60fd03f15b83a2024329l-m1107260494l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 890000,
+    "beds": 1,
+    "baths": null,
+    "sqft": null,
+    "address": "1000 Brickell Plz Unit 4504",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cd041e66cd2da90257756da517d14eb9l-m3471581287l.jpg",
+      "https://ap.rdcpix.com/cd041e66cd2da90257756da517d14eb9l-m604165215l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 519900,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1113,
+    "address": "690 SW 1st Ct Apt 2711",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a85708101fcbce4b818dea76a792b3f1l-m3428428511l.jpg",
+      "https://ap.rdcpix.com/a85708101fcbce4b818dea76a792b3f1l-m2762492692l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 645000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1100,
+    "address": "2333 Brickell Ave Apt 615",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ebb234db657cbc49bad40612be49e453l-m3702877466l.jpg",
+      "https://ap.rdcpix.com/ebb234db657cbc49bad40612be49e453l-m942136765l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 449999,
+    "beds": 0,
+    "baths": null,
+    "sqft": 466,
+    "address": "229 SW 9th St Unit 504",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9fdf2d916a21d54e9d7d5ccaf5ecdebel-m2454613360l.jpg",
+      "https://ap.rdcpix.com/9fdf2d916a21d54e9d7d5ccaf5ecdebel-m2886834902l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 460000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 838,
+    "address": "1250 S Miami Ave Apt 2208",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0d26eb4907e2f441c8f0041356abf0f7l-m3288505594l.jpg",
+      "https://ap.rdcpix.com/0d26eb4907e2f441c8f0041356abf0f7l-m3604944178l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 1995000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1801,
+    "address": "90 SW 3rd St Ph 14",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/40bcd611edb2bdb3582e71e79f113473l-m3708495903l.jpg",
+      "https://ap.rdcpix.com/40bcd611edb2bdb3582e71e79f113473l-m3975575055l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 350000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 545,
+    "address": "31 SE 6th St Apt 2205",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0ebe376b6cb8de2c24b4c07c1af4adf6l-m3795982499l.jpg",
+      "https://ap.rdcpix.com/0ebe376b6cb8de2c24b4c07c1af4adf6l-m86743154l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 580000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 764,
+    "address": "1395 Brickell Ave Unit 2814",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/65a9e07f8b7f5483536069f14de49c94l-m2553812301l.jpg",
+      "https://ap.rdcpix.com/65a9e07f8b7f5483536069f14de49c94l-m2071658508l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 3149000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2148,
+    "address": "300 Biscayne Blvd Way Unit 4007",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a0e5adca52b6f2e5bf692eecb1ec4da8l-m1829020274l.jpg",
+      "https://ap.rdcpix.com/a0e5adca52b6f2e5bf692eecb1ec4da8l-m174380038l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 99000,
+    "beds": 0,
+    "baths": null,
+    "sqft": null,
+    "address": "1541 Brickell Ave Unit C349",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e209684d0ab8e67b5fc829216c4918e3l-m1537660272l.jpg",
+      "https://ap.rdcpix.com/e209684d0ab8e67b5fc829216c4918e3l-m2528642011l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 1750000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2236,
+    "address": "1080 Brickell Ave Unit 1409",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/fbc8ab252a86ebfab5e50adef5aabd8bl-m298465507l.jpg",
+      "https://ap.rdcpix.com/fbc8ab252a86ebfab5e50adef5aabd8bl-m1597182683l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 289000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 625,
+    "address": "1025 SW 7th Ave Apt 5",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a9cbd777da38734af45615dcaea1f7ael-m3264521146l.jpg",
+      "https://ap.rdcpix.com/a9cbd777da38734af45615dcaea1f7ael-m4121944804l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 950000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1088,
+    "address": "1300 S Miami Ave Unit 2902",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cf5f066da0f3eb23a72fd3f3a10ac1ffl-m642922661l.jpg",
+      "https://ap.rdcpix.com/cf5f066da0f3eb23a72fd3f3a10ac1ffl-m1819715330l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 495000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 659,
+    "address": "1600 SW 1st Ave Apt 813",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a11bd27c949c5bddd09f71436ba0efb8l-m2380760205l.jpg",
+      "https://ap.rdcpix.com/a11bd27c949c5bddd09f71436ba0efb8l-m1143144266l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 699000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 442,
+    "address": null,
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e4ac5055870c7e12f198cc60a34f5b7cl-m2914571882l.jpg",
+      "https://ap.rdcpix.com/e4ac5055870c7e12f198cc60a34f5b7cl-m2549039186l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 59000000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 19868,
+    "address": "300 Biscayne Blvd Way Apt 6301",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/263c2fa8a80937873d3dae20984758abl-m4278681153l.jpg",
+      "https://ap.rdcpix.com/263c2fa8a80937873d3dae20984758abl-m3020860153l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 385000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 962,
+    "address": "801 Brickell Bay Dr Ste 361",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/eda0ff54e3baa1d91c752f5bdc1ffef0l-m3568731548l.jpg",
+      "https://ap.rdcpix.com/eda0ff54e3baa1d91c752f5bdc1ffef0l-m3871346918l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 590000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1240,
+    "address": "60 SW 13th St Apt 2100",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/7a0f88b0d31c7e09c9b74a4a32504f88l-m184851109l.jpg",
+      "https://ap.rdcpix.com/7a0f88b0d31c7e09c9b74a4a32504f88l-m2026764239l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 575000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 919,
+    "address": "2400 Brickell Ave Apt 306D",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9bb69d6b1d9a3e5409e195d0eced92c2l-m2300109066l.jpg",
+      "https://ap.rdcpix.com/9bb69d6b1d9a3e5409e195d0eced92c2l-m2660189305l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 947500,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1723,
+    "address": "1901 Brickell Ave Apt B1114",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/67a0e5c12abb57d24f46351f057eedf9l-m2876240513l.jpg",
+      "https://ap.rdcpix.com/67a0e5c12abb57d24f46351f057eedf9l-m2035909408l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 12950000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 10000,
+    "address": "1643 Brickell Ave Apt 4902",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dd3226bde8f51f3634e85021a3a7105fl-m762522819l.jpg",
+      "https://ap.rdcpix.com/dd3226bde8f51f3634e85021a3a7105fl-m2180433321l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 560000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 766,
+    "address": "55 9th St SW Unit 421",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/985ab324709673787fae08137b5cf993l-m2308087212l.jpg",
+      "https://ap.rdcpix.com/985ab324709673787fae08137b5cf993l-m2739539682l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 792000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 799,
+    "address": "525 NW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d04bf72a1d8c94869f4bc21cfe369618l-m1379577713l.jpg",
+      "https://ap.rdcpix.com/d04bf72a1d8c94869f4bc21cfe369618l-m3004944981l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 740000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 732,
+    "address": "525 NW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b33a2707106d219de65ffb7a376cbdb0l-m1379577713l.jpg",
+      "https://ap.rdcpix.com/b33a2707106d219de65ffb7a376cbdb0l-m2752533961l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 470900,
+    "beds": 0,
+    "baths": null,
+    "sqft": 411,
+    "address": "1034 SW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3e352a34caad8ecad5eb1d9b12105cebl-m1005136661l.jpg",
+      "https://ap.rdcpix.com/3e352a34caad8ecad5eb1d9b12105cebl-m3186493330l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 1900000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 1011,
+    "address": "1300 Brickell Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9423101ea99597245fcb88f10860f503l-m3305102547l.jpg",
+      "https://ap.rdcpix.com/9423101ea99597245fcb88f10860f503l-m1491388814l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 559000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 439,
+    "address": "525 NW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1ed9a6e4bac73104071aca2197123620l-m1379577713l.jpg",
+      "https://ap.rdcpix.com/1ed9a6e4bac73104071aca2197123620l-m3985053977l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 744900,
+    "beds": 0,
+    "baths": null,
+    "sqft": 465,
+    "address": "120 SW 8th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8632fabefb900a06fe2bac976c66f215l-m537217950l.jpg",
+      "https://ap.rdcpix.com/8632fabefb900a06fe2bac976c66f215l-m1471455144l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 495000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1113,
+    "address": "690 SW 1st Ct Apt 2717",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/71d82269065f6df12669d86a937b75f7l-m3920174016l.jpg",
+      "https://ap.rdcpix.com/71d82269065f6df12669d86a937b75f7l-m4264824433l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 1199000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "676 SW 1st St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2238a60304d3b399bc51e6b9acb87108l-m3782968674l.jpg",
+      "https://ap.rdcpix.com/2238a60304d3b399bc51e6b9acb87108l-m632544294l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 59000000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 19868,
+    "address": "300 S Biscayne Blvd Unit 6301",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cb8ce4623844d8059f9813044a39e1f8l-m1091973915l.jpg",
+      "https://ap.rdcpix.com/cb8ce4623844d8059f9813044a39e1f8l-m17490007l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 384900,
+    "beds": 3,
+    "baths": null,
+    "sqft": 990,
+    "address": "801 Brickell Bay Dr Apt 764",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3c061c4cadff6500152858c282d371dfl-m3316912976l.jpg",
+      "https://ap.rdcpix.com/3c061c4cadff6500152858c282d371dfl-m4073524207l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 349900,
+    "beds": 1,
+    "baths": null,
+    "sqft": 590,
+    "address": "540 Brickell Key Dr Apt 1809",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9c170963aa072d937c2b04500c8d828al-m776124523l.jpg",
+      "https://ap.rdcpix.com/9c170963aa072d937c2b04500c8d828al-m2693623487l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 920700,
+    "beds": 3,
+    "baths": null,
+    "sqft": 5490,
+    "address": "1210 Brickell Ave Unit 5",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f902d832de4edacc9a5af17779e16f20l-m2330757889l.jpg",
+      "https://ap.rdcpix.com/f902d832de4edacc9a5af17779e16f20l-m2084791534l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 949900,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1529,
+    "address": "1331 Brickell Bay Dr Apt 2702",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/13061f46db51049a2742bdaf3f578b1dl-m3486787322l.jpg",
+      "https://ap.rdcpix.com/13061f46db51049a2742bdaf3f578b1dl-m3831638837l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 649000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1289,
+    "address": "41 SE 5th St Apt 816",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1716f3c29ee5098b377450da55cde51dl-m3497203923l.jpg",
+      "https://ap.rdcpix.com/1716f3c29ee5098b377450da55cde51dl-m4148301453l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 5000000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3901,
+    "address": "2323 SW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/146ec08fbef2be0252b006c413f5df2dl-m378957913l.jpg",
+      "https://ap.rdcpix.com/146ec08fbef2be0252b006c413f5df2dl-m1918715709l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 525000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1030,
+    "address": "1450 Brickell Bay Dr Apt 411",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bdeb4f4f8565240e70b5633aa641568dl-m697809689l.jpg",
+      "https://ap.rdcpix.com/bdeb4f4f8565240e70b5633aa641568dl-m626636529l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 735000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1254,
+    "address": "60 SW 13th St Apt 4606",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e9ffadb361465e8213b11e31d1ec7ab3l-b472767321l.jpg",
+      "https://ap.rdcpix.com/e9ffadb361465e8213b11e31d1ec7ab3l-b3461003600l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 845000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1232,
+    "address": "1200 Brickell Bay Dr Apt 3102",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cd99117d30580d93c46269e4aaabe3b3l-m2951281098l.jpg",
+      "https://ap.rdcpix.com/cd99117d30580d93c46269e4aaabe3b3l-m2580356792l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 799500,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1155,
+    "address": "1300 S Miami Ave Unit 1610",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8beabc40da0b425645d7d9c3e1c0c8e3l-m1153182693l.jpg",
+      "https://ap.rdcpix.com/8beabc40da0b425645d7d9c3e1c0c8e3l-m1500791236l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 475000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 985,
+    "address": "770 Claughton Island Dr Apt 1614",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c94544bb58cbbb458e994fa2c6061483l-m393625961l.jpg",
+      "https://ap.rdcpix.com/c94544bb58cbbb458e994fa2c6061483l-m1288149601l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 590000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1016,
+    "address": "31 SE 6th St Apt 802",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4ed769343572a6ec48e4582bc0b10dccl-m1879601511l.jpg",
+      "https://ap.rdcpix.com/4ed769343572a6ec48e4582bc0b10dccl-m308912508l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 655000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1030,
+    "address": "540 Brickell Key Dr Apt 1817",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ae09590d1726ba3f780df5b42934cdc6l-m732587131l.jpg",
+      "https://ap.rdcpix.com/ae09590d1726ba3f780df5b42934cdc6l-m469266120l.jpg"
+    ]
+  },
+  {
+    "zip": "33131",
+    "price": 439000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 760,
+    "address": "1155 Brickell Bay Dr Apt 2005",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/03bff4940f875dd64c840b664cf6381bl-m1510317379l.jpg",
+      "https://ap.rdcpix.com/03bff4940f875dd64c840b664cf6381bl-m2983484360l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 625000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1622,
+    "address": "1101 NW 40th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/fd18a5fb950ed5a5fa5613af7cf50910l-m2426408208l.jpg",
+      "https://ap.rdcpix.com/fd18a5fb950ed5a5fa5613af7cf50910l-m1128994418l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 599000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1850,
+    "address": "600 NE 36th St Ph 14",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cb982092d5334ebf62d4177d37c0fd01l-m2003440329l.jpg",
+      "https://ap.rdcpix.com/cb982092d5334ebf62d4177d37c0fd01l-m3768651264l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1450000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1577,
+    "address": "3470 E Coast Ave Apt H2201",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/715b796a785a16759dc691c015d709a9l-m1136586075l.jpg",
+      "https://ap.rdcpix.com/715b796a785a16759dc691c015d709a9l-m2254259013l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 235000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "5030 NW 14th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/008da8f0380cbb4691610037aefdc54bl-m457732231l.jpg",
+      "https://ap.rdcpix.com/008da8f0380cbb4691610037aefdc54bl-m2094012868l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 400000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "1329 NW 38th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ba8560852a075b11d619879c31485756l-m4008323739l.jpg",
+      "https://ap.rdcpix.com/ba8560852a075b11d619879c31485756l-m2726236441l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 794000,
+    "beds": 110,
+    "baths": null,
+    "sqft": 1592,
+    "address": "5511 NW 5th Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4524f44ee96169781a8d664554787106l-m1309201489l.jpg",
+      "https://ap.rdcpix.com/4524f44ee96169781a8d664554787106l-m3713731743l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 515000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 963,
+    "address": "444 NE 30th St Unit 804",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d3142464fa73cd1c8dcdcdbb9890fa02l-m928648098l.jpg",
+      "https://ap.rdcpix.com/d3142464fa73cd1c8dcdcdbb9890fa02l-m3492198211l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 550000,
+    "beds": null,
+    "baths": null,
+    "sqft": 1248,
+    "address": "5545 NW 3rd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/03507dd2d2b9610d2bc43180061d0dc7l-m2962720854l.jpg",
+      "https://ap.rdcpix.com/03507dd2d2b9610d2bc43180061d0dc7l-m2997239831l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 850000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1107,
+    "address": "545 NW 47th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3cc031cf6040e8280cdf67a60514d7efl-m2501846979l.jpg",
+      "https://ap.rdcpix.com/3cc031cf6040e8280cdf67a60514d7efl-m3997926350l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 2216000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2120,
+    "address": "2935 Biscayne Blvd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/571d1f0aa674b3075a49120fd8f9c92el-m313589365l.jpg",
+      "https://ap.rdcpix.com/571d1f0aa674b3075a49120fd8f9c92el-m2699472950l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1691000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 1595,
+    "address": "94 NE 29th St Unit 707",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/76463342bd0a18bac10e3b34c6e21a33l-m3217593479l.jpg",
+      "https://ap.rdcpix.com/76463342bd0a18bac10e3b34c6e21a33l-m2595874676l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 4000000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "29 NW 28th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0ec6ee71176a5506d770756ce6a6056el-m1732407600l.jpg",
+      "https://ap.rdcpix.com/0ec6ee71176a5506d770756ce6a6056el-m2782397457l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1950000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "309 NE 54th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1d8f85c55573cbc104f56efdecaed096l-m1792272515l.jpg",
+      "https://ap.rdcpix.com/1d8f85c55573cbc104f56efdecaed096l-m3001898849l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 2500000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "523 NW 28th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/949d959fdc242dcfcc61ea4c2b026e41l-m3445583646l.jpg",
+      "https://ap.rdcpix.com/949d959fdc242dcfcc61ea4c2b026e41l-m1024179897l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1850000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "178 NW 54th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/65d4e63d677d138da69f1a00c5e60387l-m381849949l.jpg",
+      "https://ap.rdcpix.com/65d4e63d677d138da69f1a00c5e60387l-m2335778075l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 2500000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3049 NW 5th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8cb8c93c824f8d370ab8f2d214fa32fal-m3549334388l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 3950000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "118 NW 24th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/74296e9c1cae17d872ff798e15d500e9l-m3179327221l.jpg",
+      "https://ap.rdcpix.com/74296e9c1cae17d872ff798e15d500e9l-m3635143886l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1150000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "227 NW 33rd St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f28699d6b8c1dad92a40183210f17612l-m3988357190l.jpg",
+      "https://ap.rdcpix.com/f28699d6b8c1dad92a40183210f17612l-m1487169500l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1125000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "237 NW 33rd St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ec67fb68e348051125ccab3bd4dcd1c8l-m1319086914l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 2250000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3055 NW 5th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4448402b1fe908e77dd8b3fc4982d96bl-m2936793906l.jpg",
+      "https://ap.rdcpix.com/4448402b1fe908e77dd8b3fc4982d96bl-m170940321l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 770000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "254 NW 46th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a6ad8e3da9afdc4f1ac2599f6f0356ebl-m2350215089l.jpg",
+      "https://ap.rdcpix.com/a6ad8e3da9afdc4f1ac2599f6f0356ebl-m2022438404l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 4800000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2618,
+    "address": "4250 Bay Point Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f1f2bbd9fcbe90b4363a1968f12b8355l-m3838022199l.jpg",
+      "https://ap.rdcpix.com/f1f2bbd9fcbe90b4363a1968f12b8355l-m2394170564l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 4600000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3985,
+    "address": "4740 Bay Point Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6f3b44471be2076a9649f205fdf35577l-m663323371l.jpg",
+      "https://ap.rdcpix.com/6f3b44471be2076a9649f205fdf35577l-m1847985789l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1495000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1870,
+    "address": "601 NE 36th St Apt 1012",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ef279fa02faaba91c793f0911a5c9581l-m1283719978l.jpg",
+      "https://ap.rdcpix.com/ef279fa02faaba91c793f0911a5c9581l-m2890517708l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 495000,
+    "beds": null,
+    "baths": null,
+    "sqft": 1200,
+    "address": "5801 NW 1st Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4970425158a6ef49e6a464013702e962l-m2211211838l.jpg",
+      "https://ap.rdcpix.com/4970425158a6ef49e6a464013702e962l-m2984604925l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 785000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1823,
+    "address": "1045 NW 47th Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ea303016b7c37b0cb691aefd827aabb9l-m2624226624l.jpg",
+      "https://ap.rdcpix.com/ea303016b7c37b0cb691aefd827aabb9l-m2146406166l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 8950000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4974,
+    "address": "4151 Gate Ln",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b8fde5bb458565bf5378ff142178652cl-m475583841l.jpg",
+      "https://ap.rdcpix.com/b8fde5bb458565bf5378ff142178652cl-m3888648175l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 375000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 602,
+    "address": "5740 NW 5th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/af73a4cd0d824ecc88f61fb56c72cd63l-m2705153782l.jpg",
+      "https://ap.rdcpix.com/af73a4cd0d824ecc88f61fb56c72cd63l-m482629519l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 875000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1435,
+    "address": "600 NE 27th St Apt 1102",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/07ad3ee7a5bcde5ce0c77680ba134c47l-m2251974586l.jpg",
+      "https://ap.rdcpix.com/07ad3ee7a5bcde5ce0c77680ba134c47l-m3749193442l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1825000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1831,
+    "address": "146 NE 47th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6ea3f8a82c857d5de057acc8cf286948l-b1593062535l.jpg",
+      "https://ap.rdcpix.com/6ea3f8a82c857d5de057acc8cf286948l-b564133744l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 615000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1394,
+    "address": "1380 NW 39th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8064da16ea91e11582187394f85b2fbel-m4136249112l.jpg",
+      "https://ap.rdcpix.com/8064da16ea91e11582187394f85b2fbel-m3773652750l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 315000,
+    "beds": 0,
+    "baths": null,
+    "sqft": null,
+    "address": "161 NE 58th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4a5b446c6d476cca5c012910f1c37abal-m3057892717l.jpg",
+      "https://ap.rdcpix.com/4a5b446c6d476cca5c012910f1c37abal-m3664929474l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 9950000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 8434,
+    "address": "2900 NE 7th Ave Ph 5102",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4b19c3ff436bb74e4ad4f6086620d5del-m1056879276l.jpg",
+      "https://ap.rdcpix.com/4b19c3ff436bb74e4ad4f6086620d5del-m3725764830l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 899000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1028,
+    "address": "266 NW 42nd St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/eecdef5522a8a738465d1e4e09420e78l-m62588763l.jpg",
+      "https://ap.rdcpix.com/eecdef5522a8a738465d1e4e09420e78l-m862664127l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 2217384,
+    "beds": 5,
+    "baths": null,
+    "sqft": 2472,
+    "address": "412 NW 47th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ea07981b445ec115eddf68e5834aa150l-m2051756941l.jpg",
+      "https://ap.rdcpix.com/ea07981b445ec115eddf68e5834aa150l-m4100558244l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 3400000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3012,
+    "address": "650 NE 32nd St Unit 5004",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/110b4298a4ee9b6bc16f71367f3b37cdl-m235548790l.jpg",
+      "https://ap.rdcpix.com/110b4298a4ee9b6bc16f71367f3b37cdl-m2320695678l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 450000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 990,
+    "address": "600 NE 36th St Apt 1706",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6538afa18c9bdabe030b7f51de2b45e4l-m135781004l.jpg",
+      "https://ap.rdcpix.com/6538afa18c9bdabe030b7f51de2b45e4l-m625969471l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 2080000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 1940,
+    "address": "400 NW 49th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4b5eed1fac5e00260a7d6722dff5bf1bl-m3423567796l.jpg",
+      "https://ap.rdcpix.com/4b5eed1fac5e00260a7d6722dff5bf1bl-m1230216859l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1050000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1144,
+    "address": "85 NW 47th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ce1d7cee9063e88677f7b11d65e3276cl-m3528687015l.jpg",
+      "https://ap.rdcpix.com/ce1d7cee9063e88677f7b11d65e3276cl-m718152736l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 7100000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4334,
+    "address": "4380 Lake Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8179559812c17038f629f57dc1a8f830l-b136736015l.jpg",
+      "https://ap.rdcpix.com/8179559812c17038f629f57dc1a8f830l-b3993334759l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 619000,
+    "beds": null,
+    "baths": null,
+    "sqft": 1590,
+    "address": "1060 NW 24th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b3a950bcd118c6db42be549c4bf74eefl-m3420071570l.jpg",
+      "https://ap.rdcpix.com/b3a950bcd118c6db42be549c4bf74eefl-m2438331640l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1725000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 2017,
+    "address": "520 NW 41st St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/297b7e0ff00daf9c71c156b8cca7b709l-b3647475219l.jpg",
+      "https://ap.rdcpix.com/297b7e0ff00daf9c71c156b8cca7b709l-b1240695323l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 5400000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3763,
+    "address": "636 Melaleuca Ln",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8489a6fb37487ac5851b9526699facc4l-m950610618l.jpg",
+      "https://ap.rdcpix.com/8489a6fb37487ac5851b9526699facc4l-m4110060142l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 449900,
+    "beds": 2,
+    "baths": null,
+    "sqft": 750,
+    "address": "1376 NW 42nd St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b07c5b82f3f65f1bf95b0e42147e556bl-m4069540125l.jpg",
+      "https://ap.rdcpix.com/b07c5b82f3f65f1bf95b0e42147e556bl-m800526381l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 819400,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1505,
+    "address": "600 NE 27th St Apt 1005",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f9e0edf883c7bce0e680e8178d2f70ccl-m2721689870l.jpg",
+      "https://ap.rdcpix.com/f9e0edf883c7bce0e680e8178d2f70ccl-m187377154l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 7750000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3137,
+    "address": "3131 NE 7th Ave Unit UPH5303",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6592130ba12e004e9d2ea22f4f6705e8l-m3345265316l.jpg",
+      "https://ap.rdcpix.com/6592130ba12e004e9d2ea22f4f6705e8l-m2622075412l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 388000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 401,
+    "address": "355 NW 31st St Unit 207",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e2fe57e95acce1f0fb9f1b6826544169l-m2899674018l.jpg",
+      "https://ap.rdcpix.com/e2fe57e95acce1f0fb9f1b6826544169l-m3597209513l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1329000,
+    "beds": null,
+    "baths": null,
+    "sqft": 2500,
+    "address": "5431 and 5433 NW 5th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/54dc459a191dd86addf97701e70268c0l-b965683357l.jpg",
+      "https://ap.rdcpix.com/54dc459a191dd86addf97701e70268c0l-b1594376745l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 6250000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 2664,
+    "address": "3131 NE 7th Ave Unit 4901",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ec0ad9d220cc2d6d89f4ed2a8b035500l-m440612464l.jpg",
+      "https://ap.rdcpix.com/ec0ad9d220cc2d6d89f4ed2a8b035500l-m2909651903l.jpg"
+    ]
+  },
+  {
+    "zip": "33127",
+    "price": 1425000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1649,
+    "address": "480 NE 31st St Unit 4307",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c3edf1bf034ca0ffef244de079e7eee8l-m2150851885l.jpg",
+      "https://ap.rdcpix.com/c3edf1bf034ca0ffef244de079e7eee8l-m3077786623l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 599000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1850,
+    "address": "600 NE 36th St Ph 14",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cb982092d5334ebf62d4177d37c0fd01l-m2003440329l.jpg",
+      "https://ap.rdcpix.com/cb982092d5334ebf62d4177d37c0fd01l-m3768651264l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1450000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1577,
+    "address": "3470 E Coast Ave Apt H2201",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/715b796a785a16759dc691c015d709a9l-m1136586075l.jpg",
+      "https://ap.rdcpix.com/715b796a785a16759dc691c015d709a9l-m2254259013l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 3190000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 2347,
+    "address": "700 NE 26th Ter Unit 5502",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d623b37fc52f7aef8d264f4aa2a8287el-m913367961l.jpg",
+      "https://ap.rdcpix.com/d623b37fc52f7aef8d264f4aa2a8287el-m505212918l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 794000,
+    "beds": 110,
+    "baths": null,
+    "sqft": 1592,
+    "address": "5511 NW 5th Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4524f44ee96169781a8d664554787106l-m1309201489l.jpg",
+      "https://ap.rdcpix.com/4524f44ee96169781a8d664554787106l-m3713731743l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 515000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 963,
+    "address": "444 NE 30th St Unit 804",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d3142464fa73cd1c8dcdcdbb9890fa02l-m928648098l.jpg",
+      "https://ap.rdcpix.com/d3142464fa73cd1c8dcdcdbb9890fa02l-m3492198211l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2357000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2357,
+    "address": "456 NE 29th ST",
+    "city": "MIAMI",
+    "description": "",
+    "image_urls": [
+      "https://nh.rdcpix.com/90ace0aa2c308d5fddda6efbe38015a1e-f799053901l.jpg",
+      "https://nh.rdcpix.com/90ace0aa2c308d5fddda6efbe38015a1e-f1612880843l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 550000,
+    "beds": null,
+    "baths": null,
+    "sqft": 1248,
+    "address": "5545 NW 3rd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/03507dd2d2b9610d2bc43180061d0dc7l-m2962720854l.jpg",
+      "https://ap.rdcpix.com/03507dd2d2b9610d2bc43180061d0dc7l-m2997239831l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 850000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1107,
+    "address": "545 NW 47th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3cc031cf6040e8280cdf67a60514d7efl-m2501846979l.jpg",
+      "https://ap.rdcpix.com/3cc031cf6040e8280cdf67a60514d7efl-m3997926350l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 429000,
+    "beds": null,
+    "baths": null,
+    "sqft": 1558,
+    "address": "329 NE 58th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4e7c39bf8f875fe4e0ac9341801a354cl-b877965234l.jpg",
+      "https://ap.rdcpix.com/4e7c39bf8f875fe4e0ac9341801a354cl-b636759539l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 3450000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 2464,
+    "address": "700 NE 26th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8ca9d62a22c668aabe55d6c17bfad071l-m449308410l.jpg",
+      "https://ap.rdcpix.com/8ca9d62a22c668aabe55d6c17bfad071l-m2838609915l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 3950000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2421,
+    "address": "621 NE 55th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5a63be709b9bb69293e1b59c33372ff3l-m2705452959l.jpg",
+      "https://ap.rdcpix.com/5a63be709b9bb69293e1b59c33372ff3l-m324447468l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2216000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2120,
+    "address": "2935 Biscayne Blvd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/571d1f0aa674b3075a49120fd8f9c92el-m313589365l.jpg",
+      "https://ap.rdcpix.com/571d1f0aa674b3075a49120fd8f9c92el-m2699472950l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1691000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 1595,
+    "address": "94 NE 29th St Unit 707",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/76463342bd0a18bac10e3b34c6e21a33l-m3217593479l.jpg",
+      "https://ap.rdcpix.com/76463342bd0a18bac10e3b34c6e21a33l-m2595874676l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 30000000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "5400 NE 4th Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cc3143b5af9b367e04e9082a4fda59fcl-m1597676929l.jpg",
+      "https://ap.rdcpix.com/cc3143b5af9b367e04e9082a4fda59fcl-m1992749780l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 4000000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "29 NW 28th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0ec6ee71176a5506d770756ce6a6056el-m1732407600l.jpg",
+      "https://ap.rdcpix.com/0ec6ee71176a5506d770756ce6a6056el-m2782397457l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1950000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "309 NE 54th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1d8f85c55573cbc104f56efdecaed096l-m1792272515l.jpg",
+      "https://ap.rdcpix.com/1d8f85c55573cbc104f56efdecaed096l-m3001898849l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2500000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "523 NW 28th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/949d959fdc242dcfcc61ea4c2b026e41l-m3445583646l.jpg",
+      "https://ap.rdcpix.com/949d959fdc242dcfcc61ea4c2b026e41l-m1024179897l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1850000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "178 NW 54th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/65d4e63d677d138da69f1a00c5e60387l-m381849949l.jpg",
+      "https://ap.rdcpix.com/65d4e63d677d138da69f1a00c5e60387l-m2335778075l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2500000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3049 NW 5th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8cb8c93c824f8d370ab8f2d214fa32fal-m3549334388l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 3950000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "118 NW 24th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/74296e9c1cae17d872ff798e15d500e9l-m3179327221l.jpg",
+      "https://ap.rdcpix.com/74296e9c1cae17d872ff798e15d500e9l-m3635143886l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2800000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "454 NE 58th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/63cbba2c9f802a66f6b1d50a6076afe1l-m2773542911l.jpg",
+      "https://ap.rdcpix.com/63cbba2c9f802a66f6b1d50a6076afe1l-m4022409358l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1150000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "227 NW 33rd St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f28699d6b8c1dad92a40183210f17612l-m3988357190l.jpg",
+      "https://ap.rdcpix.com/f28699d6b8c1dad92a40183210f17612l-m1487169500l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1125000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "237 NW 33rd St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ec67fb68e348051125ccab3bd4dcd1c8l-m1319086914l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2250000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3055 NW 5th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4448402b1fe908e77dd8b3fc4982d96bl-m2936793906l.jpg",
+      "https://ap.rdcpix.com/4448402b1fe908e77dd8b3fc4982d96bl-m170940321l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 770000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "254 NW 46th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a6ad8e3da9afdc4f1ac2599f6f0356ebl-m2350215089l.jpg",
+      "https://ap.rdcpix.com/a6ad8e3da9afdc4f1ac2599f6f0356ebl-m2022438404l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 3425000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2672,
+    "address": "628 NE 59th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ce9e20bc4925ca64fbb1abf4c47c0621l-m881391557l.jpg",
+      "https://ap.rdcpix.com/ce9e20bc4925ca64fbb1abf4c47c0621l-m655753000l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 7950000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 4528,
+    "address": "549 NE 59th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0f44413149caa3deb103336985a03180l-m3998551127l.jpg",
+      "https://ap.rdcpix.com/0f44413149caa3deb103336985a03180l-m220650307l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 4800000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2618,
+    "address": "4250 Bay Point Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f1f2bbd9fcbe90b4363a1968f12b8355l-m3838022199l.jpg",
+      "https://ap.rdcpix.com/f1f2bbd9fcbe90b4363a1968f12b8355l-m2394170564l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 4600000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3985,
+    "address": "4740 Bay Point Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6f3b44471be2076a9649f205fdf35577l-m663323371l.jpg",
+      "https://ap.rdcpix.com/6f3b44471be2076a9649f205fdf35577l-m1847985789l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1495000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1870,
+    "address": "601 NE 36th St Apt 1012",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ef279fa02faaba91c793f0911a5c9581l-m1283719978l.jpg",
+      "https://ap.rdcpix.com/ef279fa02faaba91c793f0911a5c9581l-m2890517708l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 495000,
+    "beds": null,
+    "baths": null,
+    "sqft": 1200,
+    "address": "5801 NW 1st Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4970425158a6ef49e6a464013702e962l-m2211211838l.jpg",
+      "https://ap.rdcpix.com/4970425158a6ef49e6a464013702e962l-m2984604925l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 8950000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4974,
+    "address": "4151 Gate Ln",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b8fde5bb458565bf5378ff142178652cl-m475583841l.jpg",
+      "https://ap.rdcpix.com/b8fde5bb458565bf5378ff142178652cl-m3888648175l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 375000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 602,
+    "address": "5740 NW 5th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/af73a4cd0d824ecc88f61fb56c72cd63l-m2705153782l.jpg",
+      "https://ap.rdcpix.com/af73a4cd0d824ecc88f61fb56c72cd63l-m482629519l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1950000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1939,
+    "address": "431 NE 52nd Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b68201d093935b5969d022f12a3346e1l-m2522185521l.jpg",
+      "https://ap.rdcpix.com/b68201d093935b5969d022f12a3346e1l-m3663617153l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1829000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1555,
+    "address": "465 NE 52nd St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a31a15cda1ded66d73026a556e13b28bl-m62650890l.jpg",
+      "https://ap.rdcpix.com/a31a15cda1ded66d73026a556e13b28bl-m13165161l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 875000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1435,
+    "address": "600 NE 27th St Apt 1102",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/07ad3ee7a5bcde5ce0c77680ba134c47l-m2251974586l.jpg",
+      "https://ap.rdcpix.com/07ad3ee7a5bcde5ce0c77680ba134c47l-m3749193442l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1825000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1831,
+    "address": "146 NE 47th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6ea3f8a82c857d5de057acc8cf286948l-b1593062535l.jpg",
+      "https://ap.rdcpix.com/6ea3f8a82c857d5de057acc8cf286948l-b564133744l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 315000,
+    "beds": 0,
+    "baths": null,
+    "sqft": null,
+    "address": "161 NE 58th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4a5b446c6d476cca5c012910f1c37abal-m3057892717l.jpg",
+      "https://ap.rdcpix.com/4a5b446c6d476cca5c012910f1c37abal-m3664929474l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 330000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 970,
+    "address": "600 NE 25th St Apt 60",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/140a877f258f5bf4adbf6752e4aff8a9l-m3573628147l.jpg",
+      "https://ap.rdcpix.com/140a877f258f5bf4adbf6752e4aff8a9l-m1193750963l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 4999750,
+    "beds": 4,
+    "baths": null,
+    "sqft": 4401,
+    "address": "700 NE 26th Ter Unit TH403",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9d369ba3a9450234bda6ce3ab5643773l-m116989769l.jpg",
+      "https://ap.rdcpix.com/9d369ba3a9450234bda6ce3ab5643773l-m2564315551l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 9950000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 8434,
+    "address": "2900 NE 7th Ave Ph 5102",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4b19c3ff436bb74e4ad4f6086620d5del-m1056879276l.jpg",
+      "https://ap.rdcpix.com/4b19c3ff436bb74e4ad4f6086620d5del-m3725764830l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 899000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1028,
+    "address": "266 NW 42nd St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/eecdef5522a8a738465d1e4e09420e78l-m62588763l.jpg",
+      "https://ap.rdcpix.com/eecdef5522a8a738465d1e4e09420e78l-m862664127l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2217384,
+    "beds": 5,
+    "baths": null,
+    "sqft": 2472,
+    "address": "412 NW 47th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ea07981b445ec115eddf68e5834aa150l-m2051756941l.jpg",
+      "https://ap.rdcpix.com/ea07981b445ec115eddf68e5834aa150l-m4100558244l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 3400000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3012,
+    "address": "650 NE 32nd St Unit 5004",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/110b4298a4ee9b6bc16f71367f3b37cdl-m235548790l.jpg",
+      "https://ap.rdcpix.com/110b4298a4ee9b6bc16f71367f3b37cdl-m2320695678l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 450000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 990,
+    "address": "600 NE 36th St Apt 1706",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6538afa18c9bdabe030b7f51de2b45e4l-m135781004l.jpg",
+      "https://ap.rdcpix.com/6538afa18c9bdabe030b7f51de2b45e4l-m625969471l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2080000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 1940,
+    "address": "400 NW 49th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4b5eed1fac5e00260a7d6722dff5bf1bl-m3423567796l.jpg",
+      "https://ap.rdcpix.com/4b5eed1fac5e00260a7d6722dff5bf1bl-m1230216859l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 1050000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1144,
+    "address": "85 NW 47th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ce1d7cee9063e88677f7b11d65e3276cl-m3528687015l.jpg",
+      "https://ap.rdcpix.com/ce1d7cee9063e88677f7b11d65e3276cl-m718152736l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 750000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1285,
+    "address": "665 NE 25th St Apt 1803",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c168b33f707a0fa375b617e4bdfa9fd0l-m672810737l.jpg",
+      "https://ap.rdcpix.com/c168b33f707a0fa375b617e4bdfa9fd0l-m2447074877l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 7100000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4334,
+    "address": "4380 Lake Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8179559812c17038f629f57dc1a8f830l-b136736015l.jpg",
+      "https://ap.rdcpix.com/8179559812c17038f629f57dc1a8f830l-b3993334759l.jpg"
+    ]
+  },
+  {
+    "zip": "33137",
+    "price": 2090000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1909,
+    "address": "634 NE 57th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b936c9871cf55a97e6a789dc2aee7801l-m329143297l.jpg",
+      "https://ap.rdcpix.com/b936c9871cf55a97e6a789dc2aee7801l-m2438967769l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 749999,
+    "beds": 6,
+    "baths": null,
+    "sqft": 1688,
+    "address": "920 SW 8th Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f1069b4694982563ef2dda3a93b35375l-m2756683390l.jpg",
+      "https://ap.rdcpix.com/f1069b4694982563ef2dda3a93b35375l-m40668450l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 2500000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 5412,
+    "address": "30 SW 21st Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a148c470aff40a57784626efffae5c31l-m3299010662l.jpg",
+      "https://ap.rdcpix.com/a148c470aff40a57784626efffae5c31l-m1582428280l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 849000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1640,
+    "address": "1541 Brickell Ave Unit A1202",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/094e25db2d0c60fd03f15b83a2024329l-m3551993975l.jpg",
+      "https://ap.rdcpix.com/094e25db2d0c60fd03f15b83a2024329l-m1107260494l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 645000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1100,
+    "address": "2333 Brickell Ave Apt 615",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ebb234db657cbc49bad40612be49e453l-m3702877466l.jpg",
+      "https://ap.rdcpix.com/ebb234db657cbc49bad40612be49e453l-m942136765l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 2399000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "1691 Nethia Dr",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/00f9e43834d81b2069ac439de88cd3c3l-m3793495136l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 99000,
+    "beds": 0,
+    "baths": null,
+    "sqft": null,
+    "address": "1541 Brickell Ave Unit C349",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e209684d0ab8e67b5fc829216c4918e3l-m1537660272l.jpg",
+      "https://ap.rdcpix.com/e209684d0ab8e67b5fc829216c4918e3l-m2528642011l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 289000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 625,
+    "address": "1025 SW 7th Ave Apt 5",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a9cbd777da38734af45615dcaea1f7ael-m3264521146l.jpg",
+      "https://ap.rdcpix.com/a9cbd777da38734af45615dcaea1f7ael-m4121944804l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 495000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 659,
+    "address": "1600 SW 1st Ave Apt 813",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a11bd27c949c5bddd09f71436ba0efb8l-m2380760205l.jpg",
+      "https://ap.rdcpix.com/a11bd27c949c5bddd09f71436ba0efb8l-m1143144266l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 590000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1240,
+    "address": "60 SW 13th St Apt 2100",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/7a0f88b0d31c7e09c9b74a4a32504f88l-m184851109l.jpg",
+      "https://ap.rdcpix.com/7a0f88b0d31c7e09c9b74a4a32504f88l-m2026764239l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 575000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 919,
+    "address": "2400 Brickell Ave Apt 306D",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9bb69d6b1d9a3e5409e195d0eced92c2l-m2300109066l.jpg",
+      "https://ap.rdcpix.com/9bb69d6b1d9a3e5409e195d0eced92c2l-m2660189305l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 947500,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1723,
+    "address": "1901 Brickell Ave Apt B1114",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/67a0e5c12abb57d24f46351f057eedf9l-m2876240513l.jpg",
+      "https://ap.rdcpix.com/67a0e5c12abb57d24f46351f057eedf9l-m2035909408l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 12950000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 10000,
+    "address": "1643 Brickell Ave Apt 4902",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dd3226bde8f51f3634e85021a3a7105fl-m762522819l.jpg",
+      "https://ap.rdcpix.com/dd3226bde8f51f3634e85021a3a7105fl-m2180433321l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 470900,
+    "beds": 0,
+    "baths": null,
+    "sqft": 411,
+    "address": "1034 SW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3e352a34caad8ecad5eb1d9b12105cebl-m1005136661l.jpg",
+      "https://ap.rdcpix.com/3e352a34caad8ecad5eb1d9b12105cebl-m3186493330l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 850000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "1785 SW 11th Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/60f85e35996dc5395cf0668784b61a06l-m218778223l.jpg",
+      "https://ap.rdcpix.com/60f85e35996dc5395cf0668784b61a06l-m1268274543l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 5000000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3901,
+    "address": "2323 SW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/146ec08fbef2be0252b006c413f5df2dl-m378957913l.jpg",
+      "https://ap.rdcpix.com/146ec08fbef2be0252b006c413f5df2dl-m1918715709l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 735000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1254,
+    "address": "60 SW 13th St Apt 4606",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e9ffadb361465e8213b11e31d1ec7ab3l-b472767321l.jpg",
+      "https://ap.rdcpix.com/e9ffadb361465e8213b11e31d1ec7ab3l-b3461003600l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 860000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2023,
+    "address": "1741 SW 17th Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e7e0fc6d261c1c51f615f1b2a7878386l-m3976375527l.jpg",
+      "https://ap.rdcpix.com/e7e0fc6d261c1c51f615f1b2a7878386l-m1681386094l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 895000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1351,
+    "address": "1781 SW 24th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/808b00df3c5949fa27f532d73b593d04l-m1258996213l.jpg",
+      "https://ap.rdcpix.com/808b00df3c5949fa27f532d73b593d04l-m4100106643l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 5999999,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4256,
+    "address": "3571 Fair Isle St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cd6793d4068bef314c5009a38a48422el-m2062003847l.jpg",
+      "https://ap.rdcpix.com/cd6793d4068bef314c5009a38a48422el-m3316133036l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 485000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1030,
+    "address": "1650 Coral Way Apt 512",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0d3f2c886d58ddf08b718a33e4cb4b4al-m3456338577l.jpg",
+      "https://ap.rdcpix.com/0d3f2c886d58ddf08b718a33e4cb4b4al-m485341373l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 3350000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2904,
+    "address": "259 Shore Dr E",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/75f9c0dd570d580116b2863100d0d4eal-m2325069711l.jpg",
+      "https://ap.rdcpix.com/75f9c0dd570d580116b2863100d0d4eal-m3073188008l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 3380000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4611,
+    "address": "1870 S Bayshore Dr",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6ecb51ad26aef43f495afa12264e071dl-b1909160444l.jpg",
+      "https://ap.rdcpix.com/6ecb51ad26aef43f495afa12264e071dl-b3042061788l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 993000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2124,
+    "address": "1915 Brickell Ave Apt C408",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f5434c713ad1061865c39489c4152ba7l-m2744871496l.jpg",
+      "https://ap.rdcpix.com/f5434c713ad1061865c39489c4152ba7l-m2275740840l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 520000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1477,
+    "address": "1650 Coral Way Apt 403",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/58af8f34f3e90231bd5ebd25b2ca86fdl-m1141984176l.jpg",
+      "https://ap.rdcpix.com/58af8f34f3e90231bd5ebd25b2ca86fdl-m3077702971l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 2499999,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3121,
+    "address": "1930 SW 12th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9c60086b1074e62a0c0d46b2aa321d8al-m3922115821l.jpg",
+      "https://ap.rdcpix.com/9c60086b1074e62a0c0d46b2aa321d8al-m704703950l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 1100000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2370,
+    "address": "2121 SW 13th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a73d92fdc59d95e2d59a767515a3bbacl-m1221323184l.jpg",
+      "https://ap.rdcpix.com/a73d92fdc59d95e2d59a767515a3bbacl-m1986763762l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 1575000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2242,
+    "address": "1436 SW 16th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e472b611661433fe66b8377f5d0cfa8dl-m3559860085l.jpg",
+      "https://ap.rdcpix.com/e472b611661433fe66b8377f5d0cfa8dl-m2754545473l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 1095000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1106,
+    "address": "990 SW 11th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/00876ca7fb312f22ce58088a48f8737cl-m419997427l.jpg",
+      "https://ap.rdcpix.com/00876ca7fb312f22ce58088a48f8737cl-m2844672397l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 4250000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3012,
+    "address": "1451 Brickell Ave Unit 3903",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/7eb17ea3a747f0719038b3e1a914d5d0l-m3409067947l.jpg",
+      "https://ap.rdcpix.com/7eb17ea3a747f0719038b3e1a914d5d0l-m429474810l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 755000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1273,
+    "address": "1010 SW 2nd Ave Unit 1703",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d71be754a7737518d08ccef43462ab66l-m2049920416l.jpg",
+      "https://ap.rdcpix.com/d71be754a7737518d08ccef43462ab66l-m2013245122l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 945000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1629,
+    "address": "1780 SW 14th Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/da8f45a330a9741ac34a91f7acb33f60l-m2634552367l.jpg",
+      "https://ap.rdcpix.com/da8f45a330a9741ac34a91f7acb33f60l-m4281391318l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 869000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1500,
+    "address": "2127 Brickell Ave Apt 505",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/51008af3118d361caf83344efd09a69al-m3392699838l.jpg",
+      "https://ap.rdcpix.com/51008af3118d361caf83344efd09a69al-m1610648384l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 1075000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 2100,
+    "address": "1114 SW 11th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6f07074f1c3e19422a1b66e76b4df6fcl-m958298042l.jpg",
+      "https://ap.rdcpix.com/6f07074f1c3e19422a1b66e76b4df6fcl-m2944792611l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 749500,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1316,
+    "address": "1627 Brickell Ave Apt 1906",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/33a1a2fd052dc2bf91b65d9eac82a34dl-m1021411899l.jpg",
+      "https://ap.rdcpix.com/33a1a2fd052dc2bf91b65d9eac82a34dl-m3069632598l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 1950000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2614,
+    "address": "1 Grove Isle Dr Unit A409",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6f69f5b79fb9164d77293839bdd28d3bl-m1452794348l.jpg",
+      "https://ap.rdcpix.com/6f69f5b79fb9164d77293839bdd28d3bl-m172949841l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 2200000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1668,
+    "address": "2810 Crystal Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/55fb2dc3d5b3ccd3b858d160e9343c57l-m4241459005l.jpg",
+      "https://ap.rdcpix.com/55fb2dc3d5b3ccd3b858d160e9343c57l-m1802800558l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 3590000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4442,
+    "address": "1880 S Bayshore Dr",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/61cb156c5de6214687bb3deababefdcel-m2604704497l.jpg",
+      "https://ap.rdcpix.com/61cb156c5de6214687bb3deababefdcel-m2751438049l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 1799000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2389,
+    "address": "1771 Wa Kee Na Dr",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/fdb65284790fd6616945fc83f766374bl-m893006553l.jpg",
+      "https://ap.rdcpix.com/fdb65284790fd6616945fc83f766374bl-m1236141173l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 2340000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2450,
+    "address": "1735 SW 24th Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4e94f731ce138f5a1f10c098d9a4ca64l-m1583015108l.jpg",
+      "https://ap.rdcpix.com/4e94f731ce138f5a1f10c098d9a4ca64l-m81359089l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 2999000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 4497,
+    "address": "1581 Brickell Ave Unit 101/102",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/aaf1375301857ed66e257e2f2cb664b3l-m815526726l.jpg",
+      "https://ap.rdcpix.com/aaf1375301857ed66e257e2f2cb664b3l-m1662610743l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 334000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 919,
+    "address": "2160 SW 16th Ave Apt 212",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3e9131275ffa2afa5a48fd5699fc71b1l-m593415867l.jpg",
+      "https://ap.rdcpix.com/3e9131275ffa2afa5a48fd5699fc71b1l-m1687876444l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 2750000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3444,
+    "address": "1801 SW 12th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9f3801ad9537525fae8129aa362daae8l-m1634932785l.jpg",
+      "https://ap.rdcpix.com/9f3801ad9537525fae8129aa362daae8l-m2825848423l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 1470000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2415,
+    "address": "60 SW 13th St Apt 2600",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/7a0a53647dd4641a11077d36cb9a4831l-m2838023652l.jpg",
+      "https://ap.rdcpix.com/7a0a53647dd4641a11077d36cb9a4831l-m1016674102l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 1498000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2169,
+    "address": "2898 SW 2nd Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/16eb0cba861fa0524e1661f88139a90cl-m2530732560l.jpg",
+      "https://ap.rdcpix.com/16eb0cba861fa0524e1661f88139a90cl-m1822407836l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 899000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1475,
+    "address": "1937 SW 16th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3c4d52a04b75097dd236b063fc9d3899l-m3203560736l.jpg",
+      "https://ap.rdcpix.com/3c4d52a04b75097dd236b063fc9d3899l-m4097737220l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 320000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 715,
+    "address": "2400 SW 3rd Ave Apt 506",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c7cd41a3266ee5297d29567a30cd1eb2l-m4262926950l.jpg",
+      "https://ap.rdcpix.com/c7cd41a3266ee5297d29567a30cd1eb2l-m3566283314l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 650000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1188,
+    "address": "2451 Brickell Ave Apt 4L",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1c2b41b7e9e48c33189f02026e8f229el-m1564784328l.jpg",
+      "https://ap.rdcpix.com/1c2b41b7e9e48c33189f02026e8f229el-m499627893l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 450000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 868,
+    "address": "1865 Brickell Ave Apt A1204",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0fdbe329d80fe6df7775846a7cc65d11l-m1550176093l.jpg",
+      "https://ap.rdcpix.com/0fdbe329d80fe6df7775846a7cc65d11l-m1155100650l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 3695000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3617,
+    "address": "3500 E Glencoe St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/31d48a6a67f787b64ba37e1d347a54c1l-m2087142365l.jpg",
+      "https://ap.rdcpix.com/31d48a6a67f787b64ba37e1d347a54c1l-m3814805089l.jpg"
+    ]
+  },
+  {
+    "zip": "33129",
+    "price": 395000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 565,
+    "address": "1600 SW 1st Ave Apt 711",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d382513113a3f81e70fb1ffd3c7387fbl-m636615300l.jpg",
+      "https://ap.rdcpix.com/d382513113a3f81e70fb1ffd3c7387fbl-m305616302l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 135000000,
+    "beds": 13,
+    "baths": null,
+    "sqft": 11855,
+    "address": "3585 Anchorage Way",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1431b5e3bf8fc01be38540b43bf37982l-m2261784661l.jpg",
+      "https://ap.rdcpix.com/1431b5e3bf8fc01be38540b43bf37982l-m3270947857l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1349000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1195,
+    "address": "3026 Day Ave Unit 3026",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dd4e4b997448609e92053dafb693010al-m370485837l.jpg",
+      "https://ap.rdcpix.com/dd4e4b997448609e92053dafb693010al-m1123298347l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 824900,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1200,
+    "address": "2591 Trapp Ave Unit 4",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2c429e915d234104f455feac6cebe0abl-m1349082010l.jpg",
+      "https://ap.rdcpix.com/2c429e915d234104f455feac6cebe0abl-m2142980347l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 2200000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1581,
+    "address": "3400 SW 27th Ave Apt 1904",
+    "city": "Coconut Grove",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/48a771eed5ff38c17b5fdf1ba4425a53l-m2156193073l.jpg",
+      "https://ap.rdcpix.com/48a771eed5ff38c17b5fdf1ba4425a53l-m605324877l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1960000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2162,
+    "address": "3146 McDonald St Unit 3146",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/59581aacdf4315c40e60cd8af8f45367l-m2515745151l.jpg",
+      "https://ap.rdcpix.com/59581aacdf4315c40e60cd8af8f45367l-m3958009943l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1298000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1562,
+    "address": "425 Cadagua Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2b8cb2b3d53a3640afc72b6288141cd7l-m1094257042l.jpg",
+      "https://ap.rdcpix.com/2b8cb2b3d53a3640afc72b6288141cd7l-m174718042l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 699000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 534,
+    "address": "2715 Tigertail Ave Apt 102",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2982b5bae28c0246deb62ecc11871c7dl-m872906625l.jpg",
+      "https://ap.rdcpix.com/2982b5bae28c0246deb62ecc11871c7dl-m4273878790l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 2300000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1281,
+    "address": "2831 S Bayshore Dr Unit 1701",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d37750d694e989b661dc3bc2a09247d1l-m2300860159l.jpg",
+      "https://ap.rdcpix.com/d37750d694e989b661dc3bc2a09247d1l-m4216258591l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 695000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1066,
+    "address": "4100 Salzedo St Apt 901",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d86e8268aebd315f47b76ca2d8c0ebe3l-m240509375l.jpg",
+      "https://ap.rdcpix.com/d86e8268aebd315f47b76ca2d8c0ebe3l-m1391214925l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1100000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1005,
+    "address": "117 Florida Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f68355cfd7921d15d221d4ab44bbd0e1l-m1155951814l.jpg",
+      "https://ap.rdcpix.com/f68355cfd7921d15d221d4ab44bbd0e1l-m1561560492l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 39000000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 10556,
+    "address": "3832 Bayside Ct",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/111c2b1934873690eb46520ae42d76cdl-b3769969244l.jpg",
+      "https://ap.rdcpix.com/111c2b1934873690eb46520ae42d76cdl-b4250065400l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1800000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1985,
+    "address": "3648 Oak Ave",
+    "city": "Coconut Grove",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3d6754abc86ce32c0bead43c45133606l-m2946066527l.jpg",
+      "https://ap.rdcpix.com/3d6754abc86ce32c0bead43c45133606l-m1320983208l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 2650000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 2427,
+    "address": "3169 Via Abitare Way Unit 6",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8544e75c5e88aba0ed612fb19f4b7b2dl-m671996532l.jpg",
+      "https://ap.rdcpix.com/8544e75c5e88aba0ed612fb19f4b7b2dl-m389191541l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 749000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 953,
+    "address": "3001 SW 27th Ave Apt 201",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/836ee74ca72d7eb848215f0773eada34l-m3918124938l.jpg",
+      "https://ap.rdcpix.com/836ee74ca72d7eb848215f0773eada34l-m539883676l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 3999999,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3710 Grand Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/344f460b9374211ce2f3070472692629l-m3696729943l.jpg",
+      "https://ap.rdcpix.com/344f460b9374211ce2f3070472692629l-m1108504055l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 950000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3735 Washington Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0f2690260753a250230ee570f757cc8cl-m1798471836l.jpg",
+      "https://ap.rdcpix.com/0f2690260753a250230ee570f757cc8cl-m3534287622l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1300000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3442 SW 37th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5d6f9d11583627029cb798c7b870125el-m4167111333l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 665000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3424 SW 37th Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5fd6be3aa65b56a5307bf3366774cf35l-m733810524l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 429000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3719 Thomas Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f5ee593ec3addec4a40b40c6656c6de7l-m1718562652l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 249000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3718 Washington Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cfa4765335891f21873cba3c8118b1eal-m3474337935l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 302000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3714 Washington Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1cdab940cf5507c6508f51a953d776b2l-m2605109466l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 775000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "3630 William Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2d064679e7d831ffd4a9905f7cbe9404l-m2644540672l.jpg",
+      "https://ap.rdcpix.com/2d064679e7d831ffd4a9905f7cbe9404l-m270605614l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 31000000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 14720,
+    "address": "3305 S Moorings Way",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/94dd7660c0fefc4d0f66d2a812c1b058l-b2220286616l.jpg",
+      "https://ap.rdcpix.com/94dd7660c0fefc4d0f66d2a812c1b058l-b543966452l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 499500,
+    "beds": 2,
+    "baths": null,
+    "sqft": 960,
+    "address": "145 Frow Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f2d35c0a1cd1a6709debd53b89b857e5l-m124618847l.jpg",
+      "https://ap.rdcpix.com/f2d35c0a1cd1a6709debd53b89b857e5l-m2317609591l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1100000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2025,
+    "address": "419 Blue Rd",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/779b9ecd8f705c230357f42c4d22cf03l-b2368363438l.jpg",
+      "https://ap.rdcpix.com/779b9ecd8f705c230357f42c4d22cf03l-b3841971051l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 875000,
+    "beds": null,
+    "baths": null,
+    "sqft": 1205,
+    "address": "3429 SW 23rd Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4287d6ae006c07a3e5dfffb3a78e8aeal-m2318210521l.jpg",
+      "https://ap.rdcpix.com/4287d6ae006c07a3e5dfffb3a78e8aeal-m857956174l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 695000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 960,
+    "address": "3042 SW 27th Ave Unit 8",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1ba0c030e6ff571d88dc93bf2122667bl-m2336038932l.jpg",
+      "https://ap.rdcpix.com/1ba0c030e6ff571d88dc93bf2122667bl-m1055585310l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 3400000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1768,
+    "address": "3642 William Ave",
+    "city": "Coconut Grove",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/133fe469ef50d4804e32ef80391b360al-m3508695850l.jpg",
+      "https://ap.rdcpix.com/133fe469ef50d4804e32ef80391b360al-m721745064l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1500000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2240,
+    "address": "3067 Virginia St Unit 3067",
+    "city": "Coconut Grove",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d1cf13b027649954f8f54b8bc1a72f1fl-m1181916603l.jpg",
+      "https://ap.rdcpix.com/d1cf13b027649954f8f54b8bc1a72f1fl-m3412120840l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 4697000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4432,
+    "address": "3709 Poinciana Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f348d17d525623d0ebd7e5fa36d0b2eel-m538403918l.jpg",
+      "https://ap.rdcpix.com/f348d17d525623d0ebd7e5fa36d0b2eel-m533854201l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1625000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2006,
+    "address": "3243 Percival Ave Unit 3243",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/03156fd9236b19487f531062b01d954el-m3168722003l.jpg",
+      "https://ap.rdcpix.com/03156fd9236b19487f531062b01d954el-m1533040857l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 2590000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2600,
+    "address": "3150 Elizabeth St",
+    "city": "Coconut Grove",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b5f7edc58fcfbbec8f90ef5d8afdbe33l-m1206945337l.jpg",
+      "https://ap.rdcpix.com/b5f7edc58fcfbbec8f90ef5d8afdbe33l-m1642977453l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1491000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1104,
+    "address": "4241 Aurora St Unit 703",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6e7fb95bfe9282d2db60155c294ab7d5l-m3285163316l.jpg",
+      "https://ap.rdcpix.com/6e7fb95bfe9282d2db60155c294ab7d5l-m3211728831l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 2050000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2027,
+    "address": "3200 Morris Ln",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/232695954d886a2649427b7fa801c3b8l-m4062011186l.jpg",
+      "https://ap.rdcpix.com/232695954d886a2649427b7fa801c3b8l-m1046868866l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 2650000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2072,
+    "address": "2478 Inagua Ave",
+    "city": "Coconut Grove",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8a29ea0aa57836b9660f0911489e7b1fl-m1625133396l.jpg",
+      "https://ap.rdcpix.com/8a29ea0aa57836b9660f0911489e7b1fl-m247841758l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1850000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2237,
+    "address": "3154 Gifford Ln Unit 3154",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f62a8afcac7041a2170184c8e3a93fc4l-m3462281284l.jpg",
+      "https://ap.rdcpix.com/f62a8afcac7041a2170184c8e3a93fc4l-m3904799481l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 3600000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2598,
+    "address": "3644 Saint Gaudens Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3aeebde0ec0513eb0b10c08b596af0a1l-m2409908280l.jpg",
+      "https://ap.rdcpix.com/3aeebde0ec0513eb0b10c08b596af0a1l-m576386194l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 849900,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1482,
+    "address": "2474 SW 24th Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/65ba83e5d768db243521b86ec58240c8l-m3368911140l.jpg",
+      "https://ap.rdcpix.com/65ba83e5d768db243521b86ec58240c8l-m790846296l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 15900000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 12863,
+    "address": "2910 Emathla St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/20242ce15c45969998d9a9010483c3efl-m1487876100l.jpg",
+      "https://ap.rdcpix.com/20242ce15c45969998d9a9010483c3efl-m3061620300l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1195000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 1461,
+    "address": "3134 Carter St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c64eff242590980603e11f1e7d03191dl-m3553467182l.jpg",
+      "https://ap.rdcpix.com/c64eff242590980603e11f1e7d03191dl-m3420214683l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1400000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "2431 Overbrook St",
+    "city": "Coconut Grove",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0ba2afaae7872b24d1cf71e42ebab4a7l-m30983209l.jpg",
+      "https://ap.rdcpix.com/0ba2afaae7872b24d1cf71e42ebab4a7l-m350997165l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 2990000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 5113,
+    "address": "225 Alesio Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/74f9333d766a04aa77df655713c17e96l-b2563536558l.jpg",
+      "https://ap.rdcpix.com/74f9333d766a04aa77df655713c17e96l-b3000125366l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1790000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2160,
+    "address": "3169 Mary St Unit 2",
+    "city": "Coconut Grove",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5376f261a03753147ace404c6cfa1053l-b2928503683l.jpg",
+      "https://ap.rdcpix.com/5376f261a03753147ace404c6cfa1053l-b3369842257l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1450000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1442,
+    "address": "305 Fluvia Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/12e2d708563c272cc489a24ec024a5efl-m3627872797l.jpg",
+      "https://ap.rdcpix.com/12e2d708563c272cc489a24ec024a5efl-m736843871l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 699000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 988,
+    "address": "3097 Bird Ave Unit 3097",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cc71cee2416cf6ae884b947885578148l-m1700255331l.jpg",
+      "https://ap.rdcpix.com/cc71cee2416cf6ae884b947885578148l-m3171458209l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1475000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2860,
+    "address": "2924 Bridgeport Ave",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2f42b7a5e6964559fad830b10b59c044l-m35809199l.jpg",
+      "https://ap.rdcpix.com/2f42b7a5e6964559fad830b10b59c044l-m3575620090l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 647000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 970,
+    "address": "4100 Salzedo St Apt 618",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bd30f8d1f82f62885a57b208e949170bl-m2330030275l.jpg",
+      "https://ap.rdcpix.com/bd30f8d1f82f62885a57b208e949170bl-m1942375873l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 4650000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 3370,
+    "address": "3566 Rockerman Rd",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bc100d815623c518470ff4027999e4e2l-m1440519558l.jpg",
+      "https://ap.rdcpix.com/bc100d815623c518470ff4027999e4e2l-m1729998479l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 1580000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2128,
+    "address": "3035 Ohio St Unit 3035",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/758c88623c6c1ff4f287eac567f4c658l-m2745348405l.jpg",
+      "https://ap.rdcpix.com/758c88623c6c1ff4f287eac567f4c658l-m3321445190l.jpg"
+    ]
+  },
+  {
+    "zip": "33133",
+    "price": 675000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1080,
+    "address": null,
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d34c4d249a676aaa22fe7d52891b84d5l-m4041190252l.jpg",
+      "https://ap.rdcpix.com/d34c4d249a676aaa22fe7d52891b84d5l-m1813840541l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2400000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2554,
+    "address": "1015 Catalonia Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/49ba40127609f3374a8c4b9002430ea7l-m1700153805l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1150000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1295,
+    "address": "1216 Wallace St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/99443f53389f0c18aa36b0f2d4edfe64l-m2980734666l.jpg",
+      "https://ap.rdcpix.com/99443f53389f0c18aa36b0f2d4edfe64l-m1456720843l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1298000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1592,
+    "address": "752 Navarre Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f5e05f05c454b7e4c0fa30649d533e8el-m1340605217l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 3650000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2958,
+    "address": "1320 Alhambra Cir",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1226041b1fa659212529e4d4c6c66db1l-m3266296640l.jpg",
+      "https://ap.rdcpix.com/1226041b1fa659212529e4d4c6c66db1l-m2617820446l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 750000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1280,
+    "address": "2825 Granada Blvd Apt 3B",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8f39670529d21ba6ad12d3617d3ec858l-m3615736529l.jpg",
+      "https://ap.rdcpix.com/8f39670529d21ba6ad12d3617d3ec858l-m2551422393l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2098000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2880,
+    "address": "1433 Santa Cruz Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0a5915772556d7522e2d28264b22dcf8l-m2132031711l.jpg",
+      "https://ap.rdcpix.com/0a5915772556d7522e2d28264b22dcf8l-m4232738173l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2710000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 2708,
+    "address": "915 Country Club Prado",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b4364bdfc4b13f05c207c41fb6e1af68l-m2857375583l.jpg",
+      "https://ap.rdcpix.com/b4364bdfc4b13f05c207c41fb6e1af68l-m4026629037l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2000000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1869,
+    "address": "447 Giralda Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/98c49da39a383dfcf2b20a05275c6172l-b2986628956l.jpg",
+      "https://ap.rdcpix.com/98c49da39a383dfcf2b20a05275c6172l-b1195519181l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1099000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1090,
+    "address": "725 Biltmore Ct",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1524a163d9ed5af8ef904b2d5682ddbel-m4178255777l.jpg",
+      "https://ap.rdcpix.com/1524a163d9ed5af8ef904b2d5682ddbel-m2142584630l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1498000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 4347,
+    "address": "1510 Madrid St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e7e69397c273e1c0af68c33341083517l-m765612604l.jpg",
+      "https://ap.rdcpix.com/e7e69397c273e1c0af68c33341083517l-m633586325l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2590000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2469,
+    "address": "3245 Riviera Dr",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/685fa9e07e45e9b462c9776113b3f667l-m2726361085l.jpg",
+      "https://ap.rdcpix.com/685fa9e07e45e9b462c9776113b3f667l-m2099834276l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2250000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2829,
+    "address": "1450 Ortega Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1f41575a0bcdf50a42cd155f5183f0f3l-m2838274007l.jpg",
+      "https://ap.rdcpix.com/1f41575a0bcdf50a42cd155f5183f0f3l-m2277902406l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1025000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1395,
+    "address": "1240 LA Mancha Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b20e4ff390f633589d591373873e53d6l-m2719999736l.jpg",
+      "https://ap.rdcpix.com/b20e4ff390f633589d591373873e53d6l-m3333854966l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 995000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1672,
+    "address": "1203 Madrid St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/478f0d3dec8a32d27448c67ba5e71633l-m3911795051l.jpg",
+      "https://ap.rdcpix.com/478f0d3dec8a32d27448c67ba5e71633l-m3346078295l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 14000000,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "4350 SW 8th St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4d881a7eb493abe14011d41ac57b7dedl-m3602308890l.jpg",
+      "https://ap.rdcpix.com/4d881a7eb493abe14011d41ac57b7dedl-m1423285359l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2999500,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "address": "700 Biltmore Way",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e50365efb0b105eb0a3dc97fca1e56fel-m3773306826l.jpg",
+      "https://ap.rdcpix.com/e50365efb0b105eb0a3dc97fca1e56fel-m2908876990l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2000000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2936,
+    "address": "3614 Anderson Rd",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6c8f3682b4557a65bd5a2abb20995ca1l-m477469950l.jpg",
+      "https://ap.rdcpix.com/6c8f3682b4557a65bd5a2abb20995ca1l-m3597937230l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 3400000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 3048,
+    "address": "2224 Segovia Cir",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ad37b86cfe136449728ae03108ec7326l-b3111867596l.jpg",
+      "https://ap.rdcpix.com/ad37b86cfe136449728ae03108ec7326l-b1749311165l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 748000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1793,
+    "address": "625 Biltmore Way Apt 301",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e1cff1c02504da7139bd5bc0722ac57fl-m1597013531l.jpg",
+      "https://ap.rdcpix.com/e1cff1c02504da7139bd5bc0722ac57fl-m3498977669l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2395000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4550,
+    "address": "1258 Obispo Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/77bbdb3f4dad0220621a200f1015c9ebl-m2501923062l.jpg",
+      "https://ap.rdcpix.com/77bbdb3f4dad0220621a200f1015c9ebl-m3709316903l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1300000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2010,
+    "address": "602 Malaga Ave Unit B",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/02ddf4bd02c0d99a0f83592bf2ab3e4el-m1940433175l.jpg",
+      "https://ap.rdcpix.com/02ddf4bd02c0d99a0f83592bf2ab3e4el-m33235391l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1999000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2196,
+    "address": "1414 Ferdinand St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ebc7167cb451fc609dac0244a93c75e8l-m3900793616l.jpg",
+      "https://ap.rdcpix.com/ebc7167cb451fc609dac0244a93c75e8l-m284867077l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 350000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 890,
+    "address": "700 Biltmore Way Apt 402",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4694c1d427691cca64bbbe23a09e8087l-b907688144l.jpg",
+      "https://ap.rdcpix.com/4694c1d427691cca64bbbe23a09e8087l-b3645912967l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1345000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1440,
+    "address": "840 Madrid St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ca01c77b0ac760fde279896d3ae3e8f1l-m679218920l.jpg",
+      "https://ap.rdcpix.com/ca01c77b0ac760fde279896d3ae3e8f1l-m1110057107l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1725000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2277,
+    "address": "1103 Genoa St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/84a25439e0fff3531e743f70e7fe717cl-m225484914l.jpg",
+      "https://ap.rdcpix.com/84a25439e0fff3531e743f70e7fe717cl-m1605481542l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 835000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1777,
+    "address": "6241 SW 20th Ter",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4a1483382d58965863c4cf0c3dea5243l-m1406477839l.jpg",
+      "https://ap.rdcpix.com/4a1483382d58965863c4cf0c3dea5243l-m1075108011l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 925000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1261,
+    "address": "5820 SW 25th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/27c2475cc6bc4133305cf5c82c329765l-m834109677l.jpg",
+      "https://ap.rdcpix.com/27c2475cc6bc4133305cf5c82c329765l-m4169216659l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 4475000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3833,
+    "address": "2415 San Domingo St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8e4db608b9e06c80ff4eb7e821abee06l-m3523741512l.jpg",
+      "https://ap.rdcpix.com/8e4db608b9e06c80ff4eb7e821abee06l-m1425386691l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2480000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2260,
+    "address": "1125 Asturia Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b873e8829f3ce531b63c35e6d5864c8bl-m661471472l.jpg",
+      "https://ap.rdcpix.com/b873e8829f3ce531b63c35e6d5864c8bl-m3217541240l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2145000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 2965,
+    "address": "1107 Alhambra Cir",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/23fe218d164c6c33a5556079c670f591l-m2283904010l.jpg",
+      "https://ap.rdcpix.com/23fe218d164c6c33a5556079c670f591l-m1727059978l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 875000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2179,
+    "address": "5930 SW 13th Ter",
+    "city": "West Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/de802d0e4e228bb3e11e7214817fcf36l-m3609974014l.jpg",
+      "https://ap.rdcpix.com/de802d0e4e228bb3e11e7214817fcf36l-m2096307718l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1325000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1701,
+    "address": "1556 Palermo Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e45ca67693e24f611fcd814402e14b22l-m3958137735l.jpg",
+      "https://ap.rdcpix.com/e45ca67693e24f611fcd814402e14b22l-m2138470287l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 977777,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1792,
+    "address": "2217 Red Rd",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/05d3574fc1575d014d6dfd1a744127eel-m2751129723l.jpg",
+      "https://ap.rdcpix.com/05d3574fc1575d014d6dfd1a744127eel-m446661677l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1295000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1357,
+    "address": "410 Navarre Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2b605c36486d46206dd54673e4f09c64l-m1731197305l.jpg",
+      "https://ap.rdcpix.com/2b605c36486d46206dd54673e4f09c64l-m1178567573l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 939000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1468,
+    "address": "5741 SW 13th St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1264f78e0deee0a363e98829dfcf4249l-m2164035711l.jpg",
+      "https://ap.rdcpix.com/1264f78e0deee0a363e98829dfcf4249l-m3960707534l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 680000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1129,
+    "address": "600 Biltmore Way Apt 308",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2d12d8640124a4fbde4d16595555f586l-m3438711262l.jpg",
+      "https://ap.rdcpix.com/2d12d8640124a4fbde4d16595555f586l-m584644517l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1068000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1300,
+    "address": "1256 Algeria Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a7816947e7868c6958780bc4ce0c6d8al-m296680495l.jpg",
+      "https://ap.rdcpix.com/a7816947e7868c6958780bc4ce0c6d8al-m1745328278l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 2700000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3150,
+    "address": "1254 Andalusia Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f035bf2c7758a55328b04f0d7d334666l-m3317518989l.jpg",
+      "https://ap.rdcpix.com/f035bf2c7758a55328b04f0d7d334666l-m2993343418l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1399000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1621,
+    "address": "641 Zamora Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/adda77e714c268ba741346d78a980d64l-m3971860463l.jpg",
+      "https://ap.rdcpix.com/adda77e714c268ba741346d78a980d64l-m2107762502l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1600000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 3178,
+    "address": "446 Navarre Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1d885568c389d1cc74990d801fa93613l-m1413716332l.jpg",
+      "https://ap.rdcpix.com/1d885568c389d1cc74990d801fa93613l-m2224794878l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1075000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1424,
+    "address": "5736 SW 31st St",
+    "city": "Miami",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8b4b9063d2514a75f32e2f394b693158l-m1775396599l.jpg",
+      "https://ap.rdcpix.com/8b4b9063d2514a75f32e2f394b693158l-m3802288530l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 7800000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 7008,
+    "address": "3310 Granada Blvd",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/7910f86e637b0301cdb2bbcd8afb16a2l-b3140279055l.jpg",
+      "https://ap.rdcpix.com/7910f86e637b0301cdb2bbcd8afb16a2l-b2426810560l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1470000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1674,
+    "address": "407 Navarre Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/83ff6b4ff5e7db0f1f527d7020439d15l-m503008590l.jpg",
+      "https://ap.rdcpix.com/83ff6b4ff5e7db0f1f527d7020439d15l-m1961278484l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1235000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1515,
+    "address": "2600 Cardena St Apt 11",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dc339d68cb359a27a6379853735faefdl-m1578260977l.jpg",
+      "https://ap.rdcpix.com/dc339d68cb359a27a6379853735faefdl-m1644739786l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 700000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 869,
+    "address": "920 El Rado St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d4a32eb3f68d2d92418b5189265b6ff0l-m3239843998l.jpg",
+      "https://ap.rdcpix.com/d4a32eb3f68d2d92418b5189265b6ff0l-m2897688702l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1550000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1987,
+    "address": "411 Malaga Ave",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4978ce7c304a076e3d20a0779740f1ecl-m2525612422l.jpg",
+      "https://ap.rdcpix.com/4978ce7c304a076e3d20a0779740f1ecl-m474590465l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 899000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1534,
+    "address": "817 Lorca St",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f49c2076e0cf781b588ce4b1ba6ee84dl-m2210370955l.jpg",
+      "https://ap.rdcpix.com/f49c2076e0cf781b588ce4b1ba6ee84dl-m2208631626l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 6500000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 4483,
+    "address": "1225 N Greenway Dr",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5c2e34c9c988ce9273010ec3cb958404l-m622305464l.jpg",
+      "https://ap.rdcpix.com/5c2e34c9c988ce9273010ec3cb958404l-m699149740l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 214000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 420,
+    "address": "700 Biltmore Way Apt 415",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e82c48ac543b33a5aa69dfd3970d185al-m1136854262l.jpg",
+      "https://ap.rdcpix.com/e82c48ac543b33a5aa69dfd3970d185al-m2411901216l.jpg"
+    ]
+  },
+  {
+    "zip": "33134",
+    "price": 1845000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2615,
+    "address": "622 Malaga Ave Unit 622",
+    "city": "Coral Gables",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/594d0d05364c2acdcf3cb7067febba35l-b274036381l.jpg",
+      "https://ap.rdcpix.com/594d0d05364c2acdcf3cb7067febba35l-b3644922622l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 4500000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2775,
+    "address": "600 Allendale Rd",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8c6ed7b39480a8b67844b32c510edb87l-m3695180206l.jpg",
+      "https://ap.rdcpix.com/8c6ed7b39480a8b67844b32c510edb87l-m2089457715l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 14000000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 6311,
+    "address": "420 Island Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3961692a203a52a83647d5ddfbd961c1l-m3331839168l.jpg",
+      "https://ap.rdcpix.com/3961692a203a52a83647d5ddfbd961c1l-m2876002922l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 5500000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3254,
+    "address": "201 Crandon Blvd Apt 174",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6387d58a36784a1f54e61ee23191bf53l-m2262294399l.jpg",
+      "https://ap.rdcpix.com/6387d58a36784a1f54e61ee23191bf53l-m2399830709l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 4990000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 4165,
+    "address": "561 Hampton Ln",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/93754f506168ecf2c3de0be195435905l-b3753288369l.jpg",
+      "https://ap.rdcpix.com/93754f506168ecf2c3de0be195435905l-b1468259531l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1283999,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1404,
+    "address": "265 Grapetree Dr Apt 108",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/874dbf0ed54993be7b7b5df168c64991l-m208543252l.jpg",
+      "https://ap.rdcpix.com/874dbf0ed54993be7b7b5df168c64991l-m1361868998l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1050000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1734,
+    "address": "101 Ocean Lane Dr Apt 4012",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2bbb368798602bd4fa0d1028e2413271l-m672863385l.jpg",
+      "https://ap.rdcpix.com/2bbb368798602bd4fa0d1028e2413271l-m2041636490l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1125000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1720,
+    "address": "181 Crandon Blvd Apt 207",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/16928f0df8aee6b1e4eaf94f05361adel-m2562218389l.jpg",
+      "https://ap.rdcpix.com/16928f0df8aee6b1e4eaf94f05361adel-m3607773773l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 915000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1311,
+    "address": "575 Crandon Blvd Apt 808",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/687cde8c7861b4f0f23c55e9f5c43593l-m1559104644l.jpg",
+      "https://ap.rdcpix.com/687cde8c7861b4f0f23c55e9f5c43593l-m3967264437l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 3399000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 3120,
+    "address": null,
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d278a89bb26c9f17639a3c6ab1966580l-b2427044085l.jpg",
+      "https://ap.rdcpix.com/d278a89bb26c9f17639a3c6ab1966580l-b3052695773l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1099000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1720,
+    "address": "121 Crandon Blvd Apt 252",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/008c0b963ca736523aa22fca09e8adael-m2468745212l.jpg",
+      "https://ap.rdcpix.com/008c0b963ca736523aa22fca09e8adael-m1284768373l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 4750000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 4132,
+    "address": "400 Woodcrest Rd",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0a1825447caf8d391a9bd917e0a99feel-m2181402526l.jpg",
+      "https://ap.rdcpix.com/0a1825447caf8d391a9bd917e0a99feel-m2788056501l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 579000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 972,
+    "address": "55 Ocean Lane Dr Apt 1026",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0f363f30e9e4d73aec4abe9995c08f46l-b1773438319l.jpg",
+      "https://ap.rdcpix.com/0f363f30e9e4d73aec4abe9995c08f46l-b2085176445l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 749000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1100,
+    "address": "240 Galen Dr Apt 308",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6d18bae2d81b421961da1aa7067b1e61l-m3607966617l.jpg",
+      "https://ap.rdcpix.com/6d18bae2d81b421961da1aa7067b1e61l-m2106510027l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 26000000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 10926,
+    "address": "5 Harbor Pt",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0536921465e3131d23785e9f56d98ab1l-m40292343l.jpg",
+      "https://ap.rdcpix.com/0536921465e3131d23785e9f56d98ab1l-m3642936628l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 5495000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 3245,
+    "address": "551 S Mashta Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6edf5aa878834a066d534e22ca5e3d3bl-m4040776867l.jpg",
+      "https://ap.rdcpix.com/6edf5aa878834a066d534e22ca5e3d3bl-m406337248l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 3480000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2403,
+    "address": "92 W Mashta Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a1ffe019a621efd484557622aee6280bl-m728458902l.jpg",
+      "https://ap.rdcpix.com/a1ffe019a621efd484557622aee6280bl-m569092622l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1650000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1531,
+    "address": "201 Crandon Blvd Apt 1030",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/553f4cf994674cff75bcf326a06b7b74l-m549773264l.jpg",
+      "https://ap.rdcpix.com/553f4cf994674cff75bcf326a06b7b74l-m3239743672l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 3900000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 3382,
+    "address": "669 S Mashta Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d65b1ff6779274f5bab11d5854f17213l-b181932884l.jpg",
+      "https://ap.rdcpix.com/d65b1ff6779274f5bab11d5854f17213l-b2229448557l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 5500000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3595,
+    "address": null,
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2d03ad5a318eabf0933ebec3099ea645l-m644863057l.jpg",
+      "https://ap.rdcpix.com/2d03ad5a318eabf0933ebec3099ea645l-m1074089562l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 2950000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2448,
+    "address": "548 Fernwood Rd Unit 548",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0710bc5eab3e871512e8333e9011e6fel-m857511929l.jpg",
+      "https://ap.rdcpix.com/0710bc5eab3e871512e8333e9011e6fel-m1264484587l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 799500,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1242,
+    "address": "100 Ocean Lane Dr Apt 301",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bff6625f039a1689ef5b7a936cc36f90l-b3454573509l.jpg",
+      "https://ap.rdcpix.com/bff6625f039a1689ef5b7a936cc36f90l-b3640958922l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1160000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1546,
+    "address": "251 Crandon Blvd Apt 222",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ae97b1345617d02301601382d728e9ael-m2206203042l.jpg",
+      "https://ap.rdcpix.com/ae97b1345617d02301601382d728e9ael-m102954961l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1300000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1547,
+    "address": "151 Crandon Blvd Apt 206",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/89d19d65ff11a85477e05ce58e932cd0l-m1655105264l.jpg",
+      "https://ap.rdcpix.com/89d19d65ff11a85477e05ce58e932cd0l-m206147302l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 545000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1109,
+    "address": "201 Galen Dr Apt 201",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/21bd32c3198f51c3dad7faf7de435a42l-m465409599l.jpg",
+      "https://ap.rdcpix.com/21bd32c3198f51c3dad7faf7de435a42l-m1060655029l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 899000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1260,
+    "address": "155 Ocean Lane Dr Apt 310",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/504683b557b658191dc7ed57d88edb7fl-m3585071046l.jpg",
+      "https://ap.rdcpix.com/504683b557b658191dc7ed57d88edb7fl-m1699806114l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 4245000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3962,
+    "address": "200 W McIntyre St",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1418ff8ce77a34e5df212a3c529740ecl-m3980222770l.jpg",
+      "https://ap.rdcpix.com/1418ff8ce77a34e5df212a3c529740ecl-m58570003l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 21900000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 7192,
+    "address": "960 Mariner Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/97f760f68a37b0e026b8046f326d8941l-m192622529l.jpg",
+      "https://ap.rdcpix.com/97f760f68a37b0e026b8046f326d8941l-m961174500l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 2400000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2159,
+    "address": "725 Fernwood Rd",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dcab9433a43eb1bcfc341ed0134435d7l-b3069505372l.jpg",
+      "https://ap.rdcpix.com/dcab9433a43eb1bcfc341ed0134435d7l-b770648719l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1350000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1955,
+    "address": "121 Crandon Blvd Apt 256",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0183b9316c60e8d88b3b1c40214a8703l-m2373238529l.jpg",
+      "https://ap.rdcpix.com/0183b9316c60e8d88b3b1c40214a8703l-m3889223565l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 3100000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1830,
+    "address": "360 Ocean Dr Unit 205S",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bbff3e534700c0f54ef5bf27fe76b2d9l-m279302318l.jpg",
+      "https://ap.rdcpix.com/bbff3e534700c0f54ef5bf27fe76b2d9l-m1723500821l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1250000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1532,
+    "address": "251 Crandon Blvd Apt 904",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/753ee6ce081a54356db82d61c6b57d98l-m2002556807l.jpg",
+      "https://ap.rdcpix.com/753ee6ce081a54356db82d61c6b57d98l-m2019608771l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 2550000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1464,
+    "address": "310 Glenridge Rd",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ee9a4b589e2389c9f1379895fbc57c79l-b2986016305l.jpg",
+      "https://ap.rdcpix.com/ee9a4b589e2389c9f1379895fbc57c79l-b1153594085l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 3850000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 2320,
+    "address": "670 Allendale Rd",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/40386e4e97d59f2ede05701c9b73edebl-m1558250600l.jpg",
+      "https://ap.rdcpix.com/40386e4e97d59f2ede05701c9b73edebl-m3646031815l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 2650000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2813,
+    "address": "600 Grapetree Dr Apt 8CS",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5c1f20ae9bbdb30764eb0861d9f76ff3l-m3418522447l.jpg",
+      "https://ap.rdcpix.com/5c1f20ae9bbdb30764eb0861d9f76ff3l-m85885941l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 4500000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2927,
+    "address": "141 Island Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/783a245b5dbb3ffdd48b7ecc6edad455l-m3220373480l.jpg",
+      "https://ap.rdcpix.com/783a245b5dbb3ffdd48b7ecc6edad455l-m2694479682l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 2750000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1570,
+    "address": "361 W Heather Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6a8eb46d400878154895623c9aafeb23l-b720245114l.jpg",
+      "https://ap.rdcpix.com/6a8eb46d400878154895623c9aafeb23l-b273414025l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 550000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1109,
+    "address": "251 Galen Dr Unit 204E",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/014e675b9620acdaf9436ebc4b588e8al-m4203927206l.jpg",
+      "https://ap.rdcpix.com/014e675b9620acdaf9436ebc4b588e8al-m2481422651l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 3199999,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2605,
+    "address": "544 Fernwood Rd Unit 544",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/1684c707e2a821f1bc3d36f49138db1bl-m2996702989l.jpg",
+      "https://ap.rdcpix.com/1684c707e2a821f1bc3d36f49138db1bl-m3320380286l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 6690000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3518,
+    "address": "100 Hampton Ln",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8830096ace58632155b444f4548ec20bl-m3202076200l.jpg",
+      "https://ap.rdcpix.com/8830096ace58632155b444f4548ec20bl-m4043610686l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 3895000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3403,
+    "address": "691 Ridgewood Rd",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/78d9e94200dc483587a75615b36ce398l-m308121330l.jpg",
+      "https://ap.rdcpix.com/78d9e94200dc483587a75615b36ce398l-m1986819869l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 2195000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2402,
+    "address": "1121 Crandon Blvd Apt F602",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3dcac895aa71c6dbe03e6cad3483a0bal-b2744805675l.jpg",
+      "https://ap.rdcpix.com/3dcac895aa71c6dbe03e6cad3483a0bal-b1099860462l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 900000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1547,
+    "address": "151 Crandon Blvd Apt 138",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/391d21f45638d5d2000dfc22a4a98aafl-m2827288972l.jpg",
+      "https://ap.rdcpix.com/391d21f45638d5d2000dfc22a4a98aafl-m254510287l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 5200000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 3646,
+    "address": "689 Glenridge Rd",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/80024ac787fab1f1d112086553bd06a9l-m3795207539l.jpg",
+      "https://ap.rdcpix.com/80024ac787fab1f1d112086553bd06a9l-m626554206l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 9500000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3405,
+    "address": "861 Harbor Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/95244a9cfb4e95265895cb632b025e2al-m2082150590l.jpg",
+      "https://ap.rdcpix.com/95244a9cfb4e95265895cb632b025e2al-m391447640l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 895000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1409,
+    "address": "1121 Crandon Blvd Apt D206",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/fd63976cb5ec7e6a99f92134a5dd7aa1l-m1043952207l.jpg",
+      "https://ap.rdcpix.com/fd63976cb5ec7e6a99f92134a5dd7aa1l-m1703852961l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 685000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1100,
+    "address": "240 Galen Dr Apt 108",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/34c5767444f2afdaa0083eb7b9aa9af6l-m2985921132l.jpg",
+      "https://ap.rdcpix.com/34c5767444f2afdaa0083eb7b9aa9af6l-m1188507514l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 999000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1409,
+    "address": "1121 Crandon Blvd Apt D404",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9d561d8507c0f552a976cec279ae068el-m117227132l.jpg",
+      "https://ap.rdcpix.com/9d561d8507c0f552a976cec279ae068el-m2256227279l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 11000000,
+    "beds": 6,
+    "baths": null,
+    "sqft": 5826,
+    "address": "31 Island Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f67349a317a4a78bd065c908439423a7l-m2414786204l.jpg",
+      "https://ap.rdcpix.com/f67349a317a4a78bd065c908439423a7l-m2003566284l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 22900000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 5940,
+    "address": "481 S Mashta Dr",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0e6766cf59dc085c192cc4d8ea23b6bfl-b2955010040l.jpg",
+      "https://ap.rdcpix.com/0e6766cf59dc085c192cc4d8ea23b6bfl-b2878007060l.jpg"
+    ]
+  },
+  {
+    "zip": "33149",
+    "price": 1500000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1734,
+    "address": "55 Ocean Lane Dr Apt 1031",
+    "city": "Key Biscayne",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0d530d6e6ee097081e23c2fdc5a1d1fel-m4055626664l.jpg",
+      "https://ap.rdcpix.com/0d530d6e6ee097081e23c2fdc5a1d1fel-m1232406054l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 48000000,
+    "beds": 8,
+    "baths": null,
+    "sqft": 11104,
+    "address": "43 Star Island Dr",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/acbb0ff8a8cbc5005965e53c497075bal-m3015811638l.jpg",
+      "https://ap.rdcpix.com/acbb0ff8a8cbc5005965e53c497075bal-m899970385l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 36000000,
+    "beds": 7,
+    "baths": null,
+    "sqft": 9039,
+    "address": "450 Alton Rd Ph 1",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/986cb20f9b49076e8a4237592ac2e6a2l-m549160873l.jpg",
+      "https://ap.rdcpix.com/986cb20f9b49076e8a4237592ac2e6a2l-m1319665871l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 2450000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1230,
+    "address": "2301 Collins Ave Apt 1407",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5ae5b70edc3ea19c15a3b87dafceb7b2l-m755035908l.jpg",
+      "https://ap.rdcpix.com/5ae5b70edc3ea19c15a3b87dafceb7b2l-m3838122321l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1800000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 900,
+    "address": "2301 Collins Ave Apt 838",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bda7ec88a653e75fc6e4569c65afa5f8l-m755035908l.jpg",
+      "https://ap.rdcpix.com/bda7ec88a653e75fc6e4569c65afa5f8l-m2029131359l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1150000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 940,
+    "address": "1500 Ocean Dr Apt 910",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3d6680fb40cce06c74f94d97fcf353ebl-m1238897227l.jpg",
+      "https://ap.rdcpix.com/3d6680fb40cce06c74f94d97fcf353ebl-m2736070004l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1280000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1058,
+    "address": "540 West Ave Apt 914",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/7e82416539be4b3e62d1d727c766abd2l-m2862426277l.jpg",
+      "https://ap.rdcpix.com/7e82416539be4b3e62d1d727c766abd2l-m3210025353l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 425000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 731,
+    "address": "1500 Bay Rd Unit 1274S",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/26a0961d55db5f6b8a5145278705109al-m3315384964l.jpg",
+      "https://ap.rdcpix.com/26a0961d55db5f6b8a5145278705109al-m1840975035l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 425000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 695,
+    "address": "1300 Alton Rd Apt 3C",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b1bc6b2c50e5873c789c850743f1310cl-m3311178682l.jpg",
+      "https://ap.rdcpix.com/b1bc6b2c50e5873c789c850743f1310cl-m44493845l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 219000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 440,
+    "address": "359 Meridian Ave Apt A103",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a5f2cd88252486efe2ea924ee1203164l-m2024412459l.jpg",
+      "https://ap.rdcpix.com/a5f2cd88252486efe2ea924ee1203164l-m3362744877l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1595000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1060,
+    "address": "1900 Sunset Harbour Dr Unit 1814",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4dca2c5d9d1b2ed9688e69c7f96a5c5el-m146166414l.jpg",
+      "https://ap.rdcpix.com/4dca2c5d9d1b2ed9688e69c7f96a5c5el-m2673318234l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 7500000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2451,
+    "address": "500 Alton Rd Unit 3603",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0ee0586090b3d08bf811a2a25ce46dfal-m1504013915l.jpg",
+      "https://ap.rdcpix.com/0ee0586090b3d08bf811a2a25ce46dfal-m3488160329l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 790000,
+    "beds": 2,
+    "baths": null,
+    "sqft": null,
+    "address": "1115 Meridian Ave Unit Townhouse",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/800f477c4cc9d5ab60ee1b673b7b91eel-m2880117719l.jpg",
+      "https://ap.rdcpix.com/800f477c4cc9d5ab60ee1b673b7b91eel-m256013140l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 350000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 660,
+    "address": "915 8th St Apt 109",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e551601f94be40ffb3dd3fc498343203l-m3650188525l.jpg",
+      "https://ap.rdcpix.com/e551601f94be40ffb3dd3fc498343203l-m3878207193l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 525000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1088,
+    "address": "1623 Collins Ave Apt 512",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bcedf64b319dc19b5924b688c1d91326l-m2559623030l.jpg",
+      "https://ap.rdcpix.com/bcedf64b319dc19b5924b688c1d91326l-m3838737720l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 190000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 400,
+    "address": "1027 Euclid Ave Unit 5",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8b7c699a3a0f90a7336610bdef55e747l-m907682887l.jpg",
+      "https://ap.rdcpix.com/8b7c699a3a0f90a7336610bdef55e747l-m3207946584l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 450000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 655,
+    "address": "401 Ocean Dr Apt 1011",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/3ca182df9ccf597155edbab3ae59c698l-m284031305l.jpg",
+      "https://ap.rdcpix.com/3ca182df9ccf597155edbab3ae59c698l-m1708307675l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 329000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 850,
+    "address": "800 West Ave Apt 920",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/42ba6fecf4a4862061d7d4908f49ee34l-m2055305768l.jpg",
+      "https://ap.rdcpix.com/42ba6fecf4a4862061d7d4908f49ee34l-m2346537061l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 349000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 914,
+    "address": "945 Michigan Ave Apt 8",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5d33d4b187e20c899f650f72510cd3d6l-m2336411014l.jpg",
+      "https://ap.rdcpix.com/5d33d4b187e20c899f650f72510cd3d6l-m2075880057l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 2035000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2881,
+    "address": "1722 Jefferson Ave",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/26fe9f9ec2fa7914ac7a94f0df98a36al-m3425810728l.jpg",
+      "https://ap.rdcpix.com/26fe9f9ec2fa7914ac7a94f0df98a36al-m3629087701l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 209900,
+    "beds": 1,
+    "baths": null,
+    "sqft": 696,
+    "address": "1551 Meridian Ave Apt 102",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9bdce87ad35689bf59ebd0008f470db2l-m659146300l.jpg",
+      "https://ap.rdcpix.com/9bdce87ad35689bf59ebd0008f470db2l-m3543640250l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 229000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 800,
+    "address": "1776 James Ave Apt 5B",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/afc756ea9a73fa3255af2491ee626304l-m2608163139l.jpg",
+      "https://ap.rdcpix.com/afc756ea9a73fa3255af2491ee626304l-m479794976l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 285000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 629,
+    "address": "1218 Drexel Ave Apt 304",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/767d1d9bb22d0498731e38bc3cb80111l-m410528939l.jpg",
+      "https://ap.rdcpix.com/767d1d9bb22d0498731e38bc3cb80111l-m196256388l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1215000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1440,
+    "address": "9 Island Ave Apt 505",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c9241c6298299e97ace44e7e13413105l-m1960292814l.jpg",
+      "https://ap.rdcpix.com/c9241c6298299e97ace44e7e13413105l-m636712476l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 575000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 931,
+    "address": "1528 Drexel Ave Unit 1A",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/acad428eefaf02293c1784a166957d28l-m2296348135l.jpg",
+      "https://ap.rdcpix.com/acad428eefaf02293c1784a166957d28l-m746022548l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 399000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 781,
+    "address": "61 Collins Ave Apt 202",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f8af839c152d382f0ee4aaa7389cd6c1l-m1565222687l.jpg",
+      "https://ap.rdcpix.com/f8af839c152d382f0ee4aaa7389cd6c1l-m950722686l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 250000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 420,
+    "address": "441 Collins Ave Apt 23",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ac1045e1491c894f178ffcdf980fe849l-m491325407l.jpg",
+      "https://ap.rdcpix.com/ac1045e1491c894f178ffcdf980fe849l-m2593945095l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 375000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1044,
+    "address": "900 16th St Apt 207",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/17438fbfba33a3f84bba6cc461f30688l-m4219359164l.jpg",
+      "https://ap.rdcpix.com/17438fbfba33a3f84bba6cc461f30688l-m946885817l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 700000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2210,
+    "address": "1930 Bay Rd Third Level Un Unit 2",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2bc39458bb84fb1dec7b73d8f1836087l-m2270507494l.jpg",
+      "https://ap.rdcpix.com/2bc39458bb84fb1dec7b73d8f1836087l-m431163086l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 299950,
+    "beds": 1,
+    "baths": null,
+    "sqft": 837,
+    "address": "1200 West Ave Apt 209",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9c47ff7f132abf5563f0a7503e94dd50l-m338434897l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 525000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 500,
+    "address": "1437 Collins Ave Ph 10",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f2881a0a3e00d5e9356e7f3f1dc7adf6l-m406904343l.jpg",
+      "https://ap.rdcpix.com/f2881a0a3e00d5e9356e7f3f1dc7adf6l-m2917305410l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 255000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 540,
+    "address": "1051 Meridian Ave Unit 1A",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/30adc15fc9731ee9e3b6fd436318c661l-m139281973l.jpg",
+      "https://ap.rdcpix.com/30adc15fc9731ee9e3b6fd436318c661l-m1241126849l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 210000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 700,
+    "address": "350 Collins Ave Apt 210",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dcbd23839838a540639643368e3de7adl-m1294676729l.jpg",
+      "https://ap.rdcpix.com/dcbd23839838a540639643368e3de7adl-m732993609l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 699000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1324,
+    "address": "11 Island Ave Apt 407",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f0a2c639b0c6ce2db5f3e041f630c1e8l-m2427458666l.jpg",
+      "https://ap.rdcpix.com/f0a2c639b0c6ce2db5f3e041f630c1e8l-m313045094l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 199000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 700,
+    "address": "350 Collins Ave Apt 307",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/2ef181d43adc6ff38c79aa452afdb25dl-m280023177l.jpg",
+      "https://ap.rdcpix.com/2ef181d43adc6ff38c79aa452afdb25dl-m4137299467l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1600000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1437,
+    "address": "400 Alton Rd Apt 1409",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d69a5daee80edd0365aa8a54da9e1171l-m411277039l.jpg",
+      "https://ap.rdcpix.com/d69a5daee80edd0365aa8a54da9e1171l-m1001411970l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1275000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1425,
+    "address": "140 Jefferson Ave Apt 14020",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/41ce7f146b25674a5df32bdfb0e5a7d5l-m1635290352l.jpg",
+      "https://ap.rdcpix.com/41ce7f146b25674a5df32bdfb0e5a7d5l-m273287114l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1299000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1169,
+    "address": "400 S Pointe Dr Apt 702",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e8452a251d988c6ba0e31fc7f6d09e7dl-m175063549l.jpg",
+      "https://ap.rdcpix.com/e8452a251d988c6ba0e31fc7f6d09e7dl-m2820335601l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 550000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 901,
+    "address": "435 21st St Unit 201",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ae314a1f89893fce9cca3ebf30462e2dl-m3781039085l.jpg",
+      "https://ap.rdcpix.com/ae314a1f89893fce9cca3ebf30462e2dl-m1180302000l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 389000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 990,
+    "address": "1460 Ocean Dr Apt 204",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/084d3e8bb95965b3adaa4531ff3f4150l-m213220796l.jpg",
+      "https://ap.rdcpix.com/084d3e8bb95965b3adaa4531ff3f4150l-m1554118485l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 1500000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 900,
+    "address": "2301 Collins Ave Apt 1019",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/45ea8129a9d2f909837dd31643fba415l-m878265864l.jpg",
+      "https://ap.rdcpix.com/45ea8129a9d2f909837dd31643fba415l-m143063709l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 735000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1018,
+    "address": "1700 Meridian Ave Apt 304",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c80e182a3e891a812eec8a721f31fbdfl-m1328688031l.jpg",
+      "https://ap.rdcpix.com/c80e182a3e891a812eec8a721f31fbdfl-m3597159619l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 499000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 800,
+    "address": "158 Ocean Dr Units 404 & 405",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/084b916156e4c7d1a3e95dbf86d2cfc3l-m1308525826l.jpg",
+      "https://ap.rdcpix.com/084b916156e4c7d1a3e95dbf86d2cfc3l-m2196352279l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 299900,
+    "beds": 0,
+    "baths": null,
+    "sqft": 781,
+    "address": "1000 West Ave Apt 1105",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d563fafe48ed4c217eb5af4925fc102bl-m4156176967l.jpg",
+      "https://ap.rdcpix.com/d563fafe48ed4c217eb5af4925fc102bl-m89452915l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 730000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 826,
+    "address": "110 Washington Ave Apt 1513",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/abe4ad0ecfdef040961360dc9100d9b2l-b944396278l.jpg",
+      "https://ap.rdcpix.com/abe4ad0ecfdef040961360dc9100d9b2l-b4226124024l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 520000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 837,
+    "address": "1200 West Ave Apt 704",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8e5abe8980bab420424adf61b75d4742l-m3062808087l.jpg",
+      "https://ap.rdcpix.com/8e5abe8980bab420424adf61b75d4742l-m4274141036l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 285000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 650,
+    "address": "1220 Alton Rd Apt 202",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dc0b9306a6b2ae248b2ccbbcae2a42e1l-m3489997411l.jpg",
+      "https://ap.rdcpix.com/dc0b9306a6b2ae248b2ccbbcae2a42e1l-m399081753l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 305000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 630,
+    "address": "701 Collins Ave Apt 4D",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/72b4150ce93918d528094de23c11cae4l-m3767594432l.jpg",
+      "https://ap.rdcpix.com/72b4150ce93918d528094de23c11cae4l-m4030397985l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 279999,
+    "beds": 1,
+    "baths": null,
+    "sqft": 600,
+    "address": "543 Meridian Ave Apt 1",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/fbfdfc8c86b38a3c36f4b7f4644ccfbel-m3083465265l.jpg",
+      "https://ap.rdcpix.com/fbfdfc8c86b38a3c36f4b7f4644ccfbel-m1808410623l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 319000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 682,
+    "address": "1000 West Ave Apt 932",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/7ac379f5b3cce1beb6b5cd39da65f361l-m6741902l.jpg",
+      "https://ap.rdcpix.com/7ac379f5b3cce1beb6b5cd39da65f361l-m3387888720l.jpg"
+    ]
+  },
+  {
+    "zip": "33139",
+    "price": 315000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 656,
+    "address": "900 16th St Apt 204",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bc0250ae36b752b027428153bd135453l-m783152470l.jpg",
+      "https://ap.rdcpix.com/bc0250ae36b752b027428153bd135453l-m1033331273l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 349990,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1100,
+    "address": "2016 Bay Dr Apt 208",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0d260e683d475d762d87baff8a0d732el-m3414153971l.jpg",
+      "https://ap.rdcpix.com/0d260e683d475d762d87baff8a0d732el-m726572319l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 877000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1805,
+    "address": null,
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6cdae8877c443e79aafe0adaa24d59c9l-m237271001l.jpg",
+      "https://ap.rdcpix.com/6cdae8877c443e79aafe0adaa24d59c9l-m3345661141l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 340000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1145,
+    "address": "7501 E Treasure Dr Apt 1P",
+    "city": "North Bay Village",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4e3a3c1e5a48c63a1d60397557f36b85l-m2064439047l.jpg",
+      "https://ap.rdcpix.com/4e3a3c1e5a48c63a1d60397557f36b85l-m1360959390l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 995000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1780,
+    "address": "5845 Collins Ave Apt 501",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/bce472479167d2eb3dbd3c017311317el-m1152411165l.jpg",
+      "https://ap.rdcpix.com/bce472479167d2eb3dbd3c017311317el-m3840201797l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1250000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1440,
+    "address": "6301 Collins Ave Apt 1405",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/22bfb14f624474d5af6ce7b89d6ae123l-m288023117l.jpg",
+      "https://ap.rdcpix.com/22bfb14f624474d5af6ce7b89d6ae123l-m1835816468l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 600000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 662,
+    "address": "6801 Collins Door 512 Ave Unit 510",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/f39b4eb122f0f53eb2c33836259739f7l-m532967329l.jpg",
+      "https://ap.rdcpix.com/f39b4eb122f0f53eb2c33836259739f7l-m2606945589l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 240000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 794,
+    "address": "7850 Byron Ave Apt 506",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d1a9edab1278f12e80ee67a2aa6a42b4l-m2512220925l.jpg",
+      "https://ap.rdcpix.com/d1a9edab1278f12e80ee67a2aa6a42b4l-m2397786168l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 6750000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 4502,
+    "address": "425 N Shore Dr",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/68a9355b700aa78754a5678267c38081l-m2753375944l.jpg",
+      "https://ap.rdcpix.com/68a9355b700aa78754a5678267c38081l-m2097602138l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 2350000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 2474,
+    "address": "420 N Shore Dr",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a6a5c010889def2b5d26e9ba07525e46l-m3152420611l.jpg",
+      "https://ap.rdcpix.com/a6a5c010889def2b5d26e9ba07525e46l-m4083648704l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 560000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1360,
+    "address": null,
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4742e2e3e207cf84115770d1fb5ae2eal-m3853972477l.jpg",
+      "https://ap.rdcpix.com/4742e2e3e207cf84115770d1fb5ae2eal-m231404257l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 679000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 1632,
+    "address": "7360 Gary Ave",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/4a5f15483ba1efb0e08f25daefa63a79l-m2689861793l.jpg",
+      "https://ap.rdcpix.com/4a5f15483ba1efb0e08f25daefa63a79l-m1669238758l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 235000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 639,
+    "address": "8040 Tatum Waterway Dr Apt 12",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d73432672bb2f84394677b6dda9b2f4al-m3238926369l.jpg",
+      "https://ap.rdcpix.com/d73432672bb2f84394677b6dda9b2f4al-m1079900178l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 890000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1322,
+    "address": "1558 Normandy Dr",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/41f59a108df4b69d3e840c2b3fdcf69cl-m843827462l.jpg",
+      "https://ap.rdcpix.com/41f59a108df4b69d3e840c2b3fdcf69cl-m1979485526l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 619000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1632,
+    "address": "7342 Gary Ave",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/cf610eb8b71dc1bfa500fc23b47bfbbel-m2656223611l.jpg",
+      "https://ap.rdcpix.com/cf610eb8b71dc1bfa500fc23b47bfbbel-m1858452265l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1299000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2620,
+    "address": "1500 71st St",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/ea4803da71b5ee2d4c72224bc0c57b01l-m1204541030l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 2699000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3057,
+    "address": "5621 Alton Rd",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e7aba9e263731bf591aa9cbc68a52efbl-m3838297731l.jpg",
+      "https://ap.rdcpix.com/e7aba9e263731bf591aa9cbc68a52efbl-m657259022l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 345000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1100,
+    "address": "2016 Bay Dr Apt 907",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d7b046dcda7e045cd3cbff1036546bf3l-m3707174914l.jpg",
+      "https://ap.rdcpix.com/d7b046dcda7e045cd3cbff1036546bf3l-m3120800364l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 315000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 1010,
+    "address": "7135 Collins Ave Apt 621",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/139e6dee9e165b167b0e06935c26a073l-m592840408l.jpg",
+      "https://ap.rdcpix.com/139e6dee9e165b167b0e06935c26a073l-m2701003046l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 675000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1700,
+    "address": "6000 Collins Ave Apt 326",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b6496b4bea45714a20ceabb2b06b8f4dl-m3503695372l.jpg",
+      "https://ap.rdcpix.com/b6496b4bea45714a20ceabb2b06b8f4dl-m2993562181l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 570000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1625,
+    "address": "1884 Galleon St Unit 1",
+    "city": "North Bay Village",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/c288b119be02a3e214d22b3346a1b2dfl-m2311224412l.jpg",
+      "https://ap.rdcpix.com/c288b119be02a3e214d22b3346a1b2dfl-m1840296718l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 275000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1045,
+    "address": "7441 Wayne Ave Apt 2L",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d8e2e06222de12a18db86062c44dbec7l-m2173700072l.jpg",
+      "https://ap.rdcpix.com/d8e2e06222de12a18db86062c44dbec7l-m2387014993l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 305000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 931,
+    "address": "340 84th St Apt 2",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/89bf0b4f9293f1006686a3d9e03d7952l-m3937180093l.jpg",
+      "https://ap.rdcpix.com/89bf0b4f9293f1006686a3d9e03d7952l-m3701596930l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 3999900,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3016,
+    "address": "970 S Shore Dr",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/8469847d7516c391355eda9fbb0e3685l-m1376054161l.jpg",
+      "https://ap.rdcpix.com/8469847d7516c391355eda9fbb0e3685l-m305263925l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1425000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2542,
+    "address": "1411 Normandy Dr",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/d9e31929a60537b76ac355c63ad4375bl-m784724789l.jpg",
+      "https://ap.rdcpix.com/d9e31929a60537b76ac355c63ad4375bl-m2054640590l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1800000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3762,
+    "address": "5757 Alton Rd",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a9e661eaa59e5339bbc34e0e3cdc0ee8l-m4083336316l.jpg",
+      "https://ap.rdcpix.com/a9e661eaa59e5339bbc34e0e3cdc0ee8l-m2921298712l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 8590000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3587,
+    "address": "1351 Stillwater Dr",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/28f630838674495990f245cf32ec59fbl-m504723624l.jpg",
+      "https://ap.rdcpix.com/28f630838674495990f245cf32ec59fbl-m3842993632l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1060000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1628,
+    "address": "1581 Normandy Dr",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e0408111abf96548774ee8a84cdac139l-m390100243l.jpg",
+      "https://ap.rdcpix.com/e0408111abf96548774ee8a84cdac139l-m2496423225l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 14900000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 6408,
+    "address": "7960 Biscayne Point Cir",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/21e608fed06ff3fd1d4a896028ce2519l-b1616666307l.jpg",
+      "https://ap.rdcpix.com/21e608fed06ff3fd1d4a896028ce2519l-b2583924154l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 790000,
+    "beds": null,
+    "baths": null,
+    "sqft": 3170,
+    "address": "733 81st St",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/20dfb2e34c8d17159dccb3f1ae1f621dl-m697160734l.jpg",
+      "https://ap.rdcpix.com/20dfb2e34c8d17159dccb3f1ae1f621dl-m895266443l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1875000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2367,
+    "address": "171 N Shore Dr Unit 171-1",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/85938c4a69311e234899bba5ebdb0b3el-m2426138977l.jpg",
+      "https://ap.rdcpix.com/85938c4a69311e234899bba5ebdb0b3el-m3605112290l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1950000,
+    "beds": 5,
+    "baths": null,
+    "sqft": 3104,
+    "address": "8221 Crespi Blvd",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9305bc6c2c49209d4747e99ac264063cl-m4019790447l.jpg",
+      "https://ap.rdcpix.com/9305bc6c2c49209d4747e99ac264063cl-m184905187l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 400000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1147,
+    "address": "900 Bay Dr Apt 905",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a19b088192fcf78a14b8d2532ad9c37dl-m2645253337l.jpg",
+      "https://ap.rdcpix.com/a19b088192fcf78a14b8d2532ad9c37dl-m510713081l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1095000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3080,
+    "address": "900 Bay Dr Apt 1001",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/032f205fdea8cc107d7d07ce898a5905l-m221564637l.jpg",
+      "https://ap.rdcpix.com/032f205fdea8cc107d7d07ce898a5905l-m462047473l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 285000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 1057,
+    "address": "1865 79th St Cswy Apt 5O",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/27fac779bae515f44f364b9f44481c0el-m3716072917l.jpg",
+      "https://ap.rdcpix.com/27fac779bae515f44f364b9f44481c0el-m3297827215l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 345000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 815,
+    "address": "5838 Collins Ave Apt 2H",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a51a73ad9828fe483e08229013ce615al-m203190096l.jpg",
+      "https://ap.rdcpix.com/a51a73ad9828fe483e08229013ce615al-m53254595l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 250000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 676,
+    "address": "6969 Collins Ave Apt 1106",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/5a3fdd5411c413341a19cb93a328ca1fl-m1290699447l.jpg",
+      "https://ap.rdcpix.com/5a3fdd5411c413341a19cb93a328ca1fl-m1863919191l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1900000,
+    "beds": null,
+    "baths": null,
+    "sqft": 4905,
+    "address": "865 80th St",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/a056e02a834bc3d47209b01d5ad390bal-m446706903l.jpg",
+      "https://ap.rdcpix.com/a056e02a834bc3d47209b01d5ad390bal-m935682315l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1875000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 1680,
+    "address": "7330 Ocean Ter Unit 20B",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/9cdcfcde7bd546bf600bb06cebd4aae2l-m2962253814l.jpg",
+      "https://ap.rdcpix.com/9cdcfcde7bd546bf600bb06cebd4aae2l-m234507149l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 549999,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1302,
+    "address": "7545 E Treasure Dr Apt 7H",
+    "city": "North Bay Village",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/b7fc3865564c25154b6d1b2946113b73l-m2490421707l.jpg",
+      "https://ap.rdcpix.com/b7fc3865564c25154b6d1b2946113b73l-m2189190453l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 230000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 855,
+    "address": "7900 Tatum Waterway Dr Apt 314",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/dc66e339e06bcf565e895d2d520fa013l-m1764447322l.jpg",
+      "https://ap.rdcpix.com/dc66e339e06bcf565e895d2d520fa013l-m4282432478l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 2999000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 2344,
+    "address": "1835 Daytonia Rd",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/23766ee7f99d5003ea35dd960e411298l-m1464284262l.jpg",
+      "https://ap.rdcpix.com/23766ee7f99d5003ea35dd960e411298l-m3708938289l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 145000,
+    "beds": 0,
+    "baths": null,
+    "sqft": 400,
+    "address": "200 76th St Apt 59",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/6afde89c6db50dc655ad80e425cf21b9l-m2267138135l.jpg",
+      "https://ap.rdcpix.com/6afde89c6db50dc655ad80e425cf21b9l-m58113838l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 230000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 680,
+    "address": "1239 Marseille Dr Unit 7",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/29079e769a5dc7e46f3d942b33949655l-m3131742935l.jpg",
+      "https://ap.rdcpix.com/29079e769a5dc7e46f3d942b33949655l-m3086012074l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 2790000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 2599,
+    "address": "5832 Alton Rd",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/94d07af1efbffbebb868f7173cd04572l-m3079549210l.jpg",
+      "https://ap.rdcpix.com/94d07af1efbffbebb868f7173cd04572l-m1577042640l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 118000,
+    "beds": 0,
+    "baths": null,
+    "sqft": null,
+    "address": "6484 Indian Creek Dr Apt 204",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/86be2d3587b14ec206fb1646ac466503l-m4123034769l.jpg",
+      "https://ap.rdcpix.com/86be2d3587b14ec206fb1646ac466503l-m1578625243l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 1889000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1690,
+    "address": "6301 Collins Ave Apt 3001",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/0da9ed7577a949e3f06db3ba459724a2l-m3560821846l.jpg",
+      "https://ap.rdcpix.com/0da9ed7577a949e3f06db3ba459724a2l-m2496424730l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 312000,
+    "beds": 1,
+    "baths": null,
+    "sqft": 912,
+    "address": "7135 Collins Ave Apt 934",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/05400011b5fcdc214da4e3daf3105086l-m2340629283l.jpg",
+      "https://ap.rdcpix.com/05400011b5fcdc214da4e3daf3105086l-m2129025134l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 849000,
+    "beds": 3,
+    "baths": null,
+    "sqft": 1605,
+    "address": "6039 Collins Ave Apt 925",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/45e10f287d53a460b2d46f21f90654a3l-m1343755553l.jpg",
+      "https://ap.rdcpix.com/45e10f287d53a460b2d46f21f90654a3l-m3440574848l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 2975000,
+    "beds": 4,
+    "baths": null,
+    "sqft": 3153,
+    "address": "5970 Alton Rd",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/e12a11a598d70b0068dd21fae0f2f7f2l-m1326082753l.jpg",
+      "https://ap.rdcpix.com/e12a11a598d70b0068dd21fae0f2f7f2l-m1688130765l.jpg"
+    ]
+  },
+  {
+    "zip": "33141",
+    "price": 265000,
+    "beds": 2,
+    "baths": null,
+    "sqft": 975,
+    "address": "7125 Bonita Dr Apt 306",
+    "city": "Miami Beach",
+    "description": "",
+    "image_urls": [
+      "https://ap.rdcpix.com/895e27879a28871a1a7ca0f5c4129d60l-m1934593343l.jpg",
+      "https://ap.rdcpix.com/895e27879a28871a1a7ca0f5c4129d60l-m1851325467l.jpg"
+    ]
+  }
+]
